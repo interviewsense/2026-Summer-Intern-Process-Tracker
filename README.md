@@ -75,14 +75,14 @@ Most discussed companies since March 1:
 | **Visa** | `33` | `4` | `11` | `3` | `0` | `today` |
 | **Apple** | `24` | `2` | `7` | `0` | `2` | `today` |
 | **Nvidia** | `17` | `3` | `5` | `0` | `0` | `today` |
-| **Google** | `12` | `3` | `2` | `0` | `0` | `3 days ago` |
-| **Cloudflare** | `7` | `2` | `1` | `0` | `0` | `today` |
+| **Google** | `12` | `3` | `2` | `0` | `0` | `4 days ago` |
+| **Cloudflare** | `7` | `2` | `1` | `0` | `0` | `1 day ago` |
 | **Capital One** | `7` | `3` | `0` | `0` | `0` | `today` |
 | **Citadel** | `10` | `1` | `0` | `1` | `1` | `today` |
-| **SoFi** | `5` | `1` | `0` | `0` | `0` | `2 days ago` |
-| **Qualcomm** | `2` | `1` | `0` | `0` | `0` | `3 days ago` |
-| **Klaviyo** | `2` | `1` | `0` | `0` | `0` | `3 days ago` |
-| **Harvey** | `2` | `1` | `0` | `0` | `0` | `3 days ago` |
+| **SoFi** | `5` | `1` | `0` | `0` | `0` | `3 days ago` |
+| **Qualcomm** | `2` | `1` | `0` | `0` | `0` | `4 days ago` |
+| **Klaviyo** | `2` | `1` | `0` | `0` | `0` | `4 days ago` |
+| **Harvey** | `2` | `1` | `0` | `0` | `0` | `4 days ago` |
 | **Palo Alto Networks** | `1` | `1` | `0` | `0` | `0` | `today` |
 
 ### 🎙️ Interviewing
@@ -93,32 +93,32 @@ Most discussed companies since March 1:
 | **Tesla** | `22` | `0` | `12` | `0` | `1` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tesla) |
 | **OpenAI** | `22` | `0` | `3` | `2` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=openai) |
 | **Optiver** | `14` | `1` | `7` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=optiver) |
-| **Dropbox** | `10` | `0` | `3` | `1` | `1` | `2 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=dropbox) |
-| **HRT** | `9` | `0` | `4` | `1` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hrt) |
-| **Oracle** | `8` | `1` | `2` | `0` | `0` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=oracle) |
-| **Rivian** | `8` | `0` | `4` | `0` | `0` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=rivian) |
-| **HubSpot** | `7` | `0` | `2` | `0` | `0` | `7 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hubspot) |
-| **Geico** | `6` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=geico) |
-| **IMC** | `6` | `0` | `2` | `2` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=imc) |
-| **LinkedIn** | `5` | `0` | `2` | `0` | `0` | `5 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=linkedin) |
-| **Snowflake** | `5` | `0` | `2` | `2` | `1` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=snowflake) |
-| **Okta** | `4` | `0` | `1` | `0` | `1` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=okta) |
-| **Aurora** | `4` | `0` | `1` | `0` | `0` | `5 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=aurora) |
-| **Ramp** | `4` | `1` | `1` | `0` | `1` | `7 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=ramp) |
-| **CrowdStrike** | `3` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=crowdstrike) |
-| **Intuit** | `3` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=intuit) |
-| **Jane Street** | `3` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=jane-street) |
+| **Dropbox** | `10` | `0` | `3` | `1` | `1` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=dropbox) |
+| **HRT** | `9` | `0` | `4` | `1` | `0` | `2 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hrt) |
+| **Oracle** | `8` | `1` | `2` | `0` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=oracle) |
+| **Rivian** | `8` | `0` | `4` | `0` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=rivian) |
+| **HubSpot** | `7` | `0` | `2` | `0` | `0` | `8 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hubspot) |
+| **Geico** | `6` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=geico) |
+| **IMC** | `6` | `0` | `2` | `2` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=imc) |
+| **LinkedIn** | `5` | `0` | `2` | `0` | `0` | `6 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=linkedin) |
+| **Snowflake** | `5` | `0` | `2` | `2` | `1` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=snowflake) |
+| **Okta** | `4` | `0` | `1` | `0` | `1` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=okta) |
+| **Aurora** | `4` | `0` | `1` | `0` | `0` | `6 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=aurora) |
+| **Ramp** | `4` | `1` | `1` | `0` | `1` | `8 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=ramp) |
+| **CrowdStrike** | `3` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=crowdstrike) |
+| **Intuit** | `3` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=intuit) |
+| **Jane Street** | `3` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=jane-street) |
 | **SpaceX** | `3` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=spacex) |
 | **General Motors** | `2` | `0` | `2` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=general-motors) |
 | **Mechanize** | `2` | `0` | `2` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=mechanize) |
 | **Akuna** | `2` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=akuna) |
 | **Virtu** | `2` | `0` | `2` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=virtu) |
-| **Truth Social** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=truth-social) |
-| **F5** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=f5) |
-| **Arrowstreet** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=arrowstreet) |
-| **Kalshi** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=kalshi) |
-| **Carfax** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=carfax) |
-| **Deloitte** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=deloitte) |
+| **Truth Social** | `1` | `0` | `1` | `0` | `0` | `2 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=truth-social) |
+| **F5** | `1` | `0` | `1` | `0` | `0` | `2 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=f5) |
+| **Arrowstreet** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=arrowstreet) |
+| **Kalshi** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=kalshi) |
+| **Carfax** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=carfax) |
+| **Deloitte** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=deloitte) |
 | **PwC** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pwc) |
 | **Strava** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=strava) |
 | **Voyager Technologies** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=voyager-technologies) |
@@ -131,39 +131,39 @@ Most discussed companies since March 1:
 |---------|-------------|--------|------------|-----|------------|-------------|------|
 | **Two Sigma** | `5` | `0` | `0` | `1` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=two-sigma) |
 | **Pure Storage** | `5` | `0` | `0` | `2` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pure-storage) |
-| **Box** | `8` | `0` | `0` | `1` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=box) |
-| **Palantir** | `5` | `0` | `0` | `1` | `0` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=palantir) |
-| **Salesforce** | `2` | `0` | `0` | `1` | `0` | `2 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=salesforce) |
-| **Pokemon Go** | `1` | `0` | `0` | `1` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pokemon-go) |
-| **Valk Trading** | `1` | `0` | `0` | `1` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=valk-trading) |
-| **PayPal** | `1` | `0` | `0` | `1` | `0` | `12 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=paypal) |
-| **Goldman Sachs** | `1` | `0` | `0` | `1` | `0` | `13 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=goldman-sachs) |
+| **Box** | `8` | `0` | `0` | `1` | `0` | `5 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=box) |
+| **Palantir** | `5` | `0` | `0` | `1` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=palantir) |
+| **Salesforce** | `2` | `0` | `0` | `1` | `0` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=salesforce) |
+| **Pokemon Go** | `1` | `0` | `0` | `1` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pokemon-go) |
+| **Valk Trading** | `1` | `0` | `0` | `1` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=valk-trading) |
+| **PayPal** | `1` | `0` | `0` | `1` | `0` | `13 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=paypal) |
+| **Goldman Sachs** | `1` | `0` | `0` | `1` | `0` | `14 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=goldman-sachs) |
 
 ### 💀 Rejections Out
 
 | Company | 14d Reports | Offers | Interviews | OAs | Rejections | Last Active |
 |---------|-------------|--------|------------|-----|------------|-------------|
-| **IBM** | `1` | `0` | `0` | `0` | `1` | `1 day ago` |
-| **Capital One** | `1` | `0` | `0` | `0` | `1` | `1 day ago` |
-| **Amazon** | `1` | `0` | `0` | `0` | `1` | `1 day ago` |
-| **Microsoft** | `4` | `0` | `0` | `0` | `2` | `6 days ago` |
-| **Riot Games** | `3` | `0` | `0` | `0` | `2` | `10 days ago` |
-| **Nuro** | `2` | `0` | `0` | `0` | `1` | `3 days ago` |
-| **Uber** | `2` | `0` | `0` | `0` | `1` | `11 days ago` |
+| **IBM** | `1` | `0` | `0` | `0` | `1` | `2 days ago` |
+| **Capital One** | `1` | `0` | `0` | `0` | `1` | `2 days ago` |
+| **Amazon** | `1` | `0` | `0` | `0` | `1` | `2 days ago` |
+| **Microsoft** | `4` | `0` | `0` | `0` | `2` | `7 days ago` |
+| **Riot Games** | `3` | `0` | `0` | `0` | `2` | `11 days ago` |
+| **Nuro** | `2` | `0` | `0` | `0` | `1` | `4 days ago` |
+| **Uber** | `2` | `0` | `0` | `0` | `1` | `12 days ago` |
 
 ### 💬 Active
 
 | Company | 14d Reports | Offers | Interviews | OAs | Rejections | Last Active | Prep |
 |---------|-------------|--------|------------|-----|------------|-------------|------|
-| **TikTok** | `5` | `0` | `0` | `0` | `0` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tiktok) |
-| **Akuna** | `3` | `0` | `0` | `0` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=akuna) |
-| **Neuralink** | `2` | `0` | `0` | `0` | `0` | `2 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=neuralink) |
-| **Docusign** | `2` | `0` | `0` | `0` | `0` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=docusign) |
-| **ARM** | `2` | `0` | `0` | `0` | `0` | `8 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=arm) |
-| **Stripe** | `2` | `0` | `0` | `0` | `0` | `10 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=stripe) |
-| **Sierra Space** | `2` | `0` | `0` | `0` | `0` | `12 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=sierra-space) |
-| **MathWorks** | `2` | `0` | `0` | `0` | `0` | `12 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=mathworks) |
-| **Roblox** | `1` | `0` | `0` | `0` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=roblox) |
+| **TikTok** | `5` | `0` | `0` | `0` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tiktok) |
+| **Akuna** | `3` | `0` | `0` | `0` | `0` | `5 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=akuna) |
+| **Neuralink** | `2` | `0` | `0` | `0` | `0` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=neuralink) |
+| **Docusign** | `2` | `0` | `0` | `0` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=docusign) |
+| **ARM** | `2` | `0` | `0` | `0` | `0` | `9 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=arm) |
+| **Stripe** | `2` | `0` | `0` | `0` | `0` | `11 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=stripe) |
+| **Sierra Space** | `2` | `0` | `0` | `0` | `0` | `13 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=sierra-space) |
+| **MathWorks** | `2` | `0` | `0` | `0` | `0` | `13 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=mathworks) |
+| **Roblox** | `1` | `0` | `0` | `0` | `0` | `5 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=roblox) |
 
 ---
 
@@ -171,29 +171,29 @@ Most discussed companies since March 1:
 
 | When | Company | What they said |
 |------|---------|----------------|
-| `2026-03-17` | **Amazon** | Amazon SWE intern offer |
-| `2026-03-17` | **Amazon** | Zon offer |
-| `2026-03-17` | **Amazon** | AWS offer |
-| `2026-03-17` | **Amazon** | AWS Quantum Research Scientist intern offer |
-| `2026-03-17` | **Palo Alto Networks** | Palo Alto Networks offer |
-| `2026-03-17` | **IBM** | IBM offer |
-| `2026-03-17` | **IBM** | IBM SDE offer |
-| `2026-03-17` | **Citadel** | Citadel SWE intern offer |
-| `2026-03-17` | **Capital One** | Capital One TIP offer |
-| `today` | **IBM** | IBM SDE offer |
-| `today` | **Amazon** | AWS offer |
+| `today` | **Amazon** | Amazon SWE intern offer |
 | `today` | **Amazon** | Zon offer |
-| `1 day ago` | **Applied Materials** | Applied Materials offer |
-| `3 days ago` | **Qualcomm** | qualcomm swe intern offer if anyone else is joining qualcomm this summer pls dm |
-| `3 days ago` | **Capital One** | c1 tip verbal offer |
-| `3 days ago` | **Harvey** | harvey offer did anyone try to |
-| `4 days ago` | **Amazon** | amazon offer - I also wanna thank everyone who's active here and sharing honest and good i |
-| `4 days ago` | **Amazon** | amazon offer |
-| `4 days ago` | **Amazon** | zon offer - war is over |
-| `4 days ago` | **Google** | openai offer |
-| `4 days ago` | **Google** | finally done recruiting after going through hell |
-| `4 days ago` | **Zoox** | zoox offer |
-| `4 days ago` | **Amazon** | does amazon blacklist if renege offer?? please answer ASAP |
+| `today` | **Amazon** | AWS offer |
+| `today` | **Amazon** | AWS Quantum Research Scientist intern offer |
+| `today` | **Palo Alto Networks** | Palo Alto Networks offer |
+| `today` | **IBM** | IBM offer |
+| `today` | **IBM** | IBM SDE offer |
+| `today` | **Citadel** | Citadel SWE intern offer |
+| `today` | **Capital One** | Capital One TIP offer |
+| `1 day ago` | **IBM** | IBM SDE offer |
+| `1 day ago` | **Amazon** | AWS offer |
+| `1 day ago` | **Amazon** | Zon offer |
+| `2 days ago` | **Applied Materials** | Applied Materials offer |
+| `4 days ago` | **Qualcomm** | qualcomm swe intern offer if anyone else is joining qualcomm this summer pls dm |
+| `4 days ago` | **Capital One** | c1 tip verbal offer |
+| `4 days ago` | **Harvey** | harvey offer did anyone try to |
+| `5 days ago` | **Amazon** | amazon offer - I also wanna thank everyone who's active here and sharing honest and good i |
+| `5 days ago` | **Amazon** | amazon offer |
+| `5 days ago` | **Amazon** | zon offer - war is over |
+| `5 days ago` | **Google** | openai offer |
+| `5 days ago` | **Google** | finally done recruiting after going through hell |
+| `5 days ago` | **Zoox** | zoox offer |
+| `5 days ago` | **Amazon** | does amazon blacklist if renege offer?? please answer ASAP |
 
 ---
 
