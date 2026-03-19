@@ -2,17 +2,17 @@
 
 # 🧠 2026 Summer Intern Process Tracker
 
-We track every `!process` message in the **2026 Summer Intern Process Discord channel** and turn it into something actually useful — `3,949` reports, `108` companies, scraped and rebuilt every 24 hours.
+We track every `!process` message in the **2026 Summer Intern Process Discord channel** and turn it into something actually useful — `3,967` reports, `108` companies, scraped and rebuilt every 24 hours.
 
-![Updated](https://img.shields.io/badge/updated-Mar%2017%202026%2012%3A00%20UTC-4F5BD5?style=flat-square) ![Reports](https://img.shields.io/badge/reports-3,949-4F5BD5?style=flat-square) ![Offers](https://img.shields.io/badge/offers-261-22c55e?style=flat-square) ![Companies](https://img.shields.io/badge/companies-108-4F5BD5?style=flat-square) ![Cadence](https://img.shields.io/badge/updates-every%2024h-4F5BD5?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-Mar%2018%202026%2012%3A00%20UTC-4F5BD5?style=flat-square) ![Reports](https://img.shields.io/badge/reports-3,967-4F5BD5?style=flat-square) ![Offers](https://img.shields.io/badge/offers-263-22c55e?style=flat-square) ![Companies](https://img.shields.io/badge/companies-108-4F5BD5?style=flat-square) ![Cadence](https://img.shields.io/badge/updates-every%2024h-4F5BD5?style=flat-square)
 
 ---
 
-### 📡 Browse 627 Recent Reports by Status
+### 📡 Browse 645 Recent Reports by Status
 
-🎉 **[Offers Rolling](#offers-rolling)** (14 companies, 398 reports) — companies actively extending offers
+🎉 **[Offers Rolling](#offers-rolling)** (14 companies, 400 reports) — companies actively extending offers
 
-🎙️ **[Interviewing](#interviewing)** (34 companies, 165 reports) — companies in active interview rounds
+🎙️ **[Interviewing](#interviewing)** (35 companies, 181 reports) — companies in active interview rounds
 
 📝 **[OA Wave](#oa-wave)** (9 companies, 29 reports) — companies sending online assessments
 
@@ -41,11 +41,11 @@ We track every `!process` message in the **2026 Summer Intern Process Discord ch
 
 | Metric | Count |
 |--------|-------|
-| 💬 Total process reports | `3,949` |
+| 💬 Total process reports | `3,967` |
 | 🏢 Companies tracked | `108` |
-| 🎙️ Interviews reported | `756` |
-| 📝 OAs mentioned | `178` |
-| 🎉 Offers reported | `261` |
+| 🎙️ Interviews reported | `770` |
+| 📝 OAs mentioned | `180` |
+| 🎉 Offers reported | `263` |
 | 💀 Rejections reported | `114` |
 
 ---
@@ -54,7 +54,7 @@ We track every `!process` message in the **2026 Summer Intern Process Discord ch
 
 Most discussed companies since March 1:
 
-- **Amazon** — `209` recent reports — offers rolling 🎉
+- **Amazon** — `214` recent reports — offers rolling 🎉
 - **IBM** — `67` recent reports — offers rolling 🎉
 - **Visa** — `33` recent reports — offers rolling 🎉
 - **Apple** — `24` recent reports — offers rolling 🎉
@@ -70,16 +70,16 @@ Most discussed companies since March 1:
 
 | Company | 14d Reports | Offers | Interviews | OAs | Rejections | Last Active |
 |---------|-------------|--------|------------|-----|------------|-------------|
-| **Amazon** | `209` | `29` | `76` | `19` | `3` | `today` |
-| **IBM** | `67` | `13` | `26` | `0` | `2` | `today` |
-| **Visa** | `33` | `4` | `11` | `3` | `0` | `today` |
+| **Amazon** | `214` | `29` | `80` | `20` | `3` | `today` |
+| **IBM** | `68` | `14` | `26` | `0` | `2` | `today` |
+| **Visa** | `35` | `4` | `13` | `3` | `0` | `today` |
 | **Apple** | `24` | `2` | `7` | `0` | `2` | `today` |
 | **Nvidia** | `17` | `3` | `5` | `0` | `0` | `today` |
 | **Google** | `12` | `3` | `2` | `0` | `0` | `4 days ago` |
 | **Cloudflare** | `7` | `2` | `1` | `0` | `0` | `1 day ago` |
 | **Capital One** | `7` | `3` | `0` | `0` | `0` | `today` |
 | **Citadel** | `10` | `1` | `0` | `1` | `1` | `today` |
-| **SoFi** | `5` | `1` | `0` | `0` | `0` | `3 days ago` |
+| **SoFi** | `6` | `2` | `0` | `0` | `0` | `today` |
 | **Qualcomm** | `2` | `1` | `0` | `0` | `0` | `4 days ago` |
 | **Klaviyo** | `2` | `1` | `0` | `0` | `0` | `4 days ago` |
 | **Harvey** | `2` | `1` | `0` | `0` | `0` | `4 days ago` |
@@ -89,14 +89,14 @@ Most discussed companies since March 1:
 
 | Company | 14d Reports | Offers | Interviews | OAs | Rejections | Last Active | Prep |
 |---------|-------------|--------|------------|-----|------------|-------------|------|
-| **Amazon** | `209` | `29` | `76` | `19` | `3` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=amazon) |
+| **Amazon** | `214` | `29` | `80` | `20` | `3` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=amazon) |
 | **Tesla** | `22` | `0` | `12` | `0` | `1` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tesla) |
-| **OpenAI** | `22` | `0` | `3` | `2` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=openai) |
-| **Optiver** | `14` | `1` | `7` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=optiver) |
+| **OpenAI** | `23` | `0` | `3` | `3` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=openai) |
+| **Optiver** | `16` | `1` | `9` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=optiver) |
 | **Dropbox** | `10` | `0` | `3` | `1` | `1` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=dropbox) |
-| **HRT** | `9` | `0` | `4` | `1` | `0` | `2 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hrt) |
+| **HRT** | `11` | `0` | `6` | `1` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hrt) |
 | **Oracle** | `8` | `1` | `2` | `0` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=oracle) |
-| **Rivian** | `8` | `0` | `4` | `0` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=rivian) |
+| **Rivian** | `9` | `0` | `5` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=rivian) |
 | **HubSpot** | `7` | `0` | `2` | `0` | `0` | `8 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hubspot) |
 | **Geico** | `6` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=geico) |
 | **IMC** | `6` | `0` | `2` | `2` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=imc) |
@@ -104,7 +104,7 @@ Most discussed companies since March 1:
 | **Snowflake** | `5` | `0` | `2` | `2` | `1` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=snowflake) |
 | **Okta** | `4` | `0` | `1` | `0` | `1` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=okta) |
 | **Aurora** | `4` | `0` | `1` | `0` | `0` | `6 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=aurora) |
-| **Ramp** | `4` | `1` | `1` | `0` | `1` | `8 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=ramp) |
+| **Ramp** | `5` | `1` | `2` | `0` | `1` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=ramp) |
 | **CrowdStrike** | `3` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=crowdstrike) |
 | **Intuit** | `3` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=intuit) |
 | **Jane Street** | `3` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=jane-street) |
@@ -120,7 +120,8 @@ Most discussed companies since March 1:
 | **Carfax** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=carfax) |
 | **Deloitte** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=deloitte) |
 | **PwC** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pwc) |
-| **Strava** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=strava) |
+| **Strava** | `2` | `0` | `2` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=strava) |
+| **Snapchat** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=snapchat) |
 | **Voyager Technologies** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=voyager-technologies) |
 | **Paramount** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=paramount) |
 | **NASA** | `1` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=nasa) |
@@ -171,6 +172,8 @@ Most discussed companies since March 1:
 
 | When | Company | What they said |
 |------|---------|----------------|
+| `today` | **IBM** | ibm san jose offer |
+| `today` | **SoFi** | SoFi offer |
 | `today` | **Amazon** | Amazon SWE intern offer |
 | `today` | **Amazon** | Zon offer |
 | `today` | **Amazon** | AWS offer |
@@ -203,11 +206,11 @@ Sorted by total all-time reports.
 
 | # | Company | Reports | Offers | Interviews | OAs | Rejections | Offer Rate | Activity |
 |---|---------|---------|--------|------------|-----|------------|------------|----------|
-| 1 | **Amazon** | `563` | `45` | `198` | `41` | `13` | `8%` | `████████` |
-| 2 | **IBM** | `253` | `39` | `81` | `2` | `5` | `15%` | `████░░░░` |
-| 3 | **Visa** | `133` | `15` | `35` | `16` | `4` | `11%` | `██░░░░░░` |
+| 1 | **Amazon** | `568` | `45` | `202` | `42` | `13` | `8%` | `████████` |
+| 2 | **IBM** | `254` | `40` | `81` | `2` | `5` | `16%` | `████░░░░` |
+| 3 | **Visa** | `135` | `15` | `37` | `16` | `4` | `11%` | `██░░░░░░` |
 | 4 | **Apple** | `114` | `8` | `30` | `1` | `8` | `7%` | `██░░░░░░` |
-| 5 | **OpenAI** | `103` | `6` | `24` | `6` | `3` | `6%` | `██░░░░░░` |
+| 5 | **OpenAI** | `104` | `6` | `24` | `7` | `3` | `6%` | `██░░░░░░` |
 | 6 | **Capital One** | `102` | `11` | `16` | `4` | `4` | `11%` | `██░░░░░░` |
 | 7 | **Google** | `81` | `14` | `13` | `3` | `2` | `17%` | `█░░░░░░░` |
 | 8 | **Nvidia** | `80` | `10` | `25` | `0` | `3` | `12%` | `█░░░░░░░` |
@@ -215,14 +218,14 @@ Sorted by total all-time reports.
 | 10 | **Citadel** | `69` | `2` | `18` | `3` | `4` | `3%` | `█░░░░░░░` |
 | 11 | **Tesla** | `64` | `1` | `22` | `0` | `1` | `2%` | `█░░░░░░░` |
 | 12 | **Stripe** | `57` | `4` | `2` | `5` | `4` | `7%` | `█░░░░░░░` |
-| 13 | **Ramp** | `37` | `3` | `10` | `4` | `3` | `8%` | `█░░░░░░░` |
+| 13 | **Ramp** | `38` | `3` | `11` | `4` | `3` | `8%` | `█░░░░░░░` |
 | 14 | **Oracle** | `36` | `3` | `11` | `0` | `1` | `8%` | `█░░░░░░░` |
 | 15 | **LinkedIn** | `32` | `1` | `8` | `3` | `8` | `3%` | `█░░░░░░░` |
 | 16 | **Two Sigma** | `30` | `1` | `10` | `2` | `0` | `3%` | `░░░░░░░░` |
 | 17 | **Snowflake** | `29` | `2` | `7` | `3` | `2` | `7%` | `░░░░░░░░` |
 | 18 | **Intuit** | `29` | `2` | `8` | `6` | `0` | `7%` | `░░░░░░░░` |
-| 19 | **Optiver** | `29` | `4` | `11` | `0` | `0` | `14%` | `░░░░░░░░` |
-| 20 | **HRT** | `28` | `0` | `13` | `2` | `0` | `0%` | `░░░░░░░░` |
+| 19 | **Optiver** | `31` | `4` | `13` | `0` | `0` | `13%` | `░░░░░░░░` |
+| 20 | **HRT** | `30` | `0` | `15` | `2` | `0` | `0%` | `░░░░░░░░` |
 | 21 | **Ebay** | `28` | `1` | `8` | `2` | `3` | `4%` | `░░░░░░░░` |
 | 22 | **HubSpot** | `27` | `1` | `2` | `6` | `0` | `4%` | `░░░░░░░░` |
 | 23 | **Coinbase** | `27` | `2` | `2` | `1` | `1` | `7%` | `░░░░░░░░` |
@@ -242,10 +245,10 @@ Sorted by total all-time reports.
 | 37 | **Geico** | `18` | `1` | `6` | `1` | `0` | `6%` | `░░░░░░░░` |
 | 38 | **GitHub** | `16` | `0` | `7` | `0` | `0` | `0%` | `░░░░░░░░` |
 | 39 | **Okta** | `15` | `0` | `3` | `4` | `1` | `0%` | `░░░░░░░░` |
-| 40 | **Rivian** | `15` | `0` | `6` | `0` | `0` | `0%` | `░░░░░░░░` |
+| 40 | **Rivian** | `16` | `0` | `7` | `0` | `0` | `0%` | `░░░░░░░░` |
 | 41 | **AMD** | `15` | `2` | `3` | `0` | `0` | `13%` | `░░░░░░░░` |
 | 42 | **Shopify** | `15` | `3` | `0` | `1` | `3` | `20%` | `░░░░░░░░` |
-| 43 | **SoFi** | `14` | `1` | `1` | `1` | `3` | `7%` | `░░░░░░░░` |
+| 43 | **SoFi** | `15` | `2` | `1` | `1` | `3` | `13%` | `░░░░░░░░` |
 | 44 | **Zoox** | `14` | `1` | `5` | `1` | `0` | `7%` | `░░░░░░░░` |
 | 45 | **AT&T** | `14` | `3` | `6` | `1` | `0` | `21%` | `░░░░░░░░` |
 | 46 | **Together AI** | `14` | `0` | `2` | `2` | `0` | `0%` | `░░░░░░░░` |
@@ -254,7 +257,7 @@ Sorted by total all-time reports.
 | 49 | **Docusign** | `13` | `1` | `3` | `0` | `0` | `8%` | `░░░░░░░░` |
 | 50 | **Roblox** | `13` | `3` | `2` | `0` | `1` | `23%` | `░░░░░░░░` |
 | 51 | **Pinterest** | `13` | `0` | `1` | `2` | `1` | `0%` | `░░░░░░░░` |
-| 52 | **Snapchat** | `12` | `3` | `2` | `0` | `1` | `25%` | `░░░░░░░░` |
+| 52 | **Snapchat** | `13` | `3` | `3` | `0` | `1` | `23%` | `░░░░░░░░` |
 | 53 | **Gemini** | `12` | `0` | `5` | `0` | `0` | `0%` | `░░░░░░░░` |
 | 54 | **Aurora** | `11` | `0` | `1` | `0` | `0` | `0%` | `░░░░░░░░` |
 | 55 | **Wells Fargo** | `11` | `5` | `1` | `0` | `0` | `45%` | `░░░░░░░░` |
@@ -307,11 +310,11 @@ Sorted by total all-time reports.
 | 102 | **General Motors** | `2` | `0` | `2` | `0` | `0` | `0%` | `░░░░░░░░` |
 | 103 | **Mechanize** | `2` | `0` | `2` | `0` | `0` | `0%` | `░░░░░░░░` |
 | 104 | **PwC** | `1` | `0` | `1` | `0` | `0` | `0%` | `░░░░░░░░` |
-| 105 | **Strava** | `1` | `0` | `1` | `0` | `0` | `0%` | `░░░░░░░░` |
+| 105 | **Strava** | `2` | `0` | `2` | `0` | `0` | `0%` | `░░░░░░░░` |
 | 106 | **Voyager Technologies** | `1` | `0` | `1` | `0` | `0` | `0%` | `░░░░░░░░` |
 | 107 | **Paramount** | `1` | `0` | `1` | `0` | `0` | `0%` | `░░░░░░░░` |
 | 108 | **NASA** | `1` | `0` | `1` | `0` | `0` | `0%` | `░░░░░░░░` |
 
 ---
 
-*Scraped and rebuilt every 24 hours. Last run: Mar 17, 2026 12:00 UTC. Source: 3,949 Discord `!process` messages.*
+*Scraped and rebuilt every 24 hours. Last run: Mar 18, 2026 12:00 UTC. Source: 3,967 Discord `!process` messages.*
