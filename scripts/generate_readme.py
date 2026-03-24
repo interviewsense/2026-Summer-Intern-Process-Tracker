@@ -7,7 +7,7 @@ import csv, glob, re, os
 from collections import defaultdict, Counter
 from datetime import datetime, timezone
 
-DATA_DIR = "/Users/akhil/Downloads/2026_summer_intern_process_kkPqaPF_Pf"
+DATA_DIR = os.environ.get("DATA_DIR", "/Users/akhil/Downloads/cscareers.dev (1)/2026_summer_intern_process_zVWoAS6C56")
 OUT_PATH = os.path.join(os.path.dirname(__file__), "../README.md")
 
 COMPANIES = {
