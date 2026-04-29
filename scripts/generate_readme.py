@@ -89,43 +89,29 @@ def main() -> int:
         "",
         "Track where candidates are reporting Summer 2026 offers, interviews, online assessments, and rejections across software, data science, quant, AI, hardware, and more.",
         "",
-        "Maintained from Discord `!process` reports and paired with InterviewSense so you can prep around the companies that are actually moving right now.",
-        "",
-        f"![Updated](https://img.shields.io/badge/updated-{now_utc.replace(' ','%20').replace(',','').replace(':','%3A')}-4F5BD5?style=flat-square) "
-        f"![Reports](https://img.shields.io/badge/reports-{total_msgs:,}-4F5BD5?style=flat-square) "
-        f"![Companies](https://img.shields.io/badge/companies-{total_cos}-4F5BD5?style=flat-square) "
-        f"![Offers](https://img.shields.io/badge/offers-{total_offers}-22c55e?style=flat-square) "
-        f"![Interviews](https://img.shields.io/badge/interviews-{total_ints:,}-4F5BD5?style=flat-square) "
+        f"![Updated](https://img.shields.io/badge/Updated-{now_utc.replace(' ','%20').replace(',','').replace(':','%3A')}-4F5BD5?style=flat-square) "
+        f"![Reports](https://img.shields.io/badge/Reports-{total_msgs:,}-4F5BD5?style=flat-square) "
+        f"![Companies](https://img.shields.io/badge/Companies-{total_cos}-4F5BD5?style=flat-square) "
+        f"![Offers](https://img.shields.io/badge/Offers-{total_offers}-22c55e?style=flat-square) "
+        f"![Interviews](https://img.shields.io/badge/Interviews-{total_ints:,}-4F5BD5?style=flat-square) "
         f"![OAs](https://img.shields.io/badge/OAs-{total_oas:,}-4F5BD5?style=flat-square) "
-        f"![Rejections](https://img.shields.io/badge/rejections-{total_rejs:,}-ef4444?style=flat-square)",
-        "",
-        "🧠 For practical tips on navigating the internship process, check out the guide: [Zero to Offer](ZERO_TO_OFFER.md)",
+        f"![Rejections](https://img.shields.io/badge/Rejections-{total_rejs:,}-ef4444?style=flat-square)",
         "",
         "🙏 Contribute by submitting an [issue](https://github.com/interviewsense/2026-Summer-Intern-Process-Tracker/issues). See the contribution guidelines [here](CONTRIBUTING.md).",
         "",
         "---",
         "",
-        f"## Browse {total_msgs:,} Process Reports by Signal",
+        '<div align="center">',
         "",
-        f"🎉 **Offer reports** ({total_offers:,})",
+        "<h2>😤 Struggling with interviews at these companies?</h2>",
         "",
-        f"🎙️ **Interview reports** ({total_ints:,})",
+        f'<h3><a href="{IS_URL}">Get AI mock interviews built around every company in this list</a></h3>',
         "",
-        f"📝 **OA mentions** ({total_oas:,})",
+        f'<a href="{IS_URL}"><img src="assets/interviewsense-cta-banner.png" alt="Start Free on InterviewSense" width="640" /></a>',
         "",
-        f"💀 **Rejection reports** ({total_rejs:,})",
+        "<p><sub><i>Stop grinding random LeetCode. InterviewSense builds mock interviews around the real offer, OA, and interview patterns candidates are reporting right now.</i></sub></p>",
         "",
-        "---",
-        "",
-        '<p align="center"><strong>😤 Struggling with interviews at these companies?</strong></p>',
-        "",
-        f'<p align="center"><a href="{IS_URL}"><strong>Get AI mock interviews built around every company in this list</strong></a></p>',
-        "",
-        '<p align="center"><img src="assets/cta-small.png" alt="InterviewSense" width="220" /></p>',
-        "",
-        f'<p align="center"><a href="{IS_URL}"><img src="https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white" alt="Start Free on InterviewSense" /></a></p>',
-        "",
-        "<p align=\"center\"><em>Stop grinding random LeetCode. InterviewSense builds mock interviews around the real offer, OA, and interview patterns candidates are reporting right now.</em></p>",
+        "</div>",
         "",
         "---",
         "",

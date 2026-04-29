@@ -2,37 +2,23 @@
 
 Track where candidates are reporting Summer 2026 offers, interviews, online assessments, and rejections across software, data science, quant, AI, hardware, and more.
 
-Maintained from Discord `!process` reports and paired with InterviewSense so you can prep around the companies that are actually moving right now.
-
-![Updated](https://img.shields.io/badge/updated-Apr%2029%202026%2023%3A30%20UTC-4F5BD5?style=flat-square) ![Reports](https://img.shields.io/badge/reports-5,867-4F5BD5?style=flat-square) ![Companies](https://img.shields.io/badge/companies-134-4F5BD5?style=flat-square) ![Offers](https://img.shields.io/badge/offers-378-22c55e?style=flat-square) ![Interviews](https://img.shields.io/badge/interviews-1,118-4F5BD5?style=flat-square) ![OAs](https://img.shields.io/badge/OAs-223-4F5BD5?style=flat-square) ![Rejections](https://img.shields.io/badge/rejections-167-ef4444?style=flat-square)
-
-🧠 For practical tips on navigating the internship process, check out the guide: [Zero to Offer](ZERO_TO_OFFER.md)
+![Updated](https://img.shields.io/badge/Updated-Apr%2029%202026%2023%3A43%20UTC-4F5BD5?style=flat-square) ![Reports](https://img.shields.io/badge/Reports-5,867-4F5BD5?style=flat-square) ![Companies](https://img.shields.io/badge/Companies-134-4F5BD5?style=flat-square) ![Offers](https://img.shields.io/badge/Offers-378-22c55e?style=flat-square) ![Interviews](https://img.shields.io/badge/Interviews-1,118-4F5BD5?style=flat-square) ![OAs](https://img.shields.io/badge/OAs-223-4F5BD5?style=flat-square) ![Rejections](https://img.shields.io/badge/Rejections-167-ef4444?style=flat-square)
 
 🙏 Contribute by submitting an [issue](https://github.com/interviewsense/2026-Summer-Intern-Process-Tracker/issues). See the contribution guidelines [here](CONTRIBUTING.md).
 
 ---
 
-## Browse 5,867 Process Reports by Signal
+<div align="center">
 
-🎉 **Offer reports** (378)
+<h2>😤 Struggling with interviews at these companies?</h2>
 
-🎙️ **Interview reports** (1,118)
+<h3><a href="https://interviewsense.org">Get AI mock interviews built around every company in this list</a></h3>
 
-📝 **OA mentions** (223)
+<a href="https://interviewsense.org"><img src="assets/interviewsense-cta-banner.png" alt="Start Free on InterviewSense" width="640" /></a>
 
-💀 **Rejection reports** (167)
+<p><sub><i>Stop grinding random LeetCode. InterviewSense builds mock interviews around the real offer, OA, and interview patterns candidates are reporting right now.</i></sub></p>
 
----
-
-<p align="center"><strong>😤 Struggling with interviews at these companies?</strong></p>
-
-<p align="center"><a href="https://interviewsense.org"><strong>Get AI mock interviews built around every company in this list</strong></a></p>
-
-<p align="center"><img src="assets/cta-small.png" alt="InterviewSense" width="220" /></p>
-
-<p align="center"><a href="https://interviewsense.org"><img src="https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white" alt="Start Free on InterviewSense" /></a></p>
-
-<p align="center"><em>Stop grinding random LeetCode. InterviewSense builds mock interviews around the real offer, OA, and interview patterns candidates are reporting right now.</em></p>
+</div>
 
 ---
 
