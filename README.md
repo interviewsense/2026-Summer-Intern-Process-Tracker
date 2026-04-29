@@ -1,12 +1,12 @@
 # 🧠 2026 Summer Intern Process Tracker
 
-![Updated](https://img.shields.io/badge/updated-Apr%2029%202026%2023%3A20%20UTC-4F5BD5?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-Apr%2029%202026%2023%3A22%20UTC-4F5BD5?style=flat-square)
 
 ### 😤 Struggling with interviews at these companies?
 
 **[Get AI mock interviews built around every company in this list](https://interviewsense.org)**
 
-<img src="assets/cta.png" alt="InterviewSense" width="28" />
+<img src="assets/cta.png" alt="InterviewSense" width="80" />
 
 [![Start Free on InterviewSense](https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white)](https://interviewsense.org)
 

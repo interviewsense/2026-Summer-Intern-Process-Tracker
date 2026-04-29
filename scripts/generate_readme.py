@@ -86,7 +86,7 @@ def main() -> int:
         "",
         f"**[Get AI mock interviews built around every company in this list]({IS_URL})**",
         "",
-        f'<img src="assets/cta.png" alt="InterviewSense" width="28" />',
+        f'<img src="assets/cta.png" alt="InterviewSense" width="80" />',
         "",
         f"[![Start Free on InterviewSense](https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white)]({IS_URL})",
         "",
