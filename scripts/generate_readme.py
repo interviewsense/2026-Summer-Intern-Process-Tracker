@@ -57,6 +57,13 @@ def main() -> int:
     data = json.loads(DATA_PATH.read_text())
     companies = data.get("companies") or []
     generated = data.get("generated") or ""
+    stats = data.get("stats") or {}
+    total_msgs = int(stats.get("total_process_msgs") or 0)
+    total_cos = int(stats.get("total_companies_tracked") or 0)
+    total_offers = int(stats.get("total_offers") or 0)
+    total_ints = int(stats.get("total_interviews") or 0)
+    total_oas = int(stats.get("total_oas") or 0)
+    total_rejs = int(stats.get("total_rejections") or 0)
 
     rows = []
     for c in companies:
@@ -78,17 +85,49 @@ def main() -> int:
 
     lines: list[str] = []
     lines += [
-        "# 🧠 2026 Summer Intern Process Tracker",
+        "# 🧠 Summer 2026 Offer & Interview Reports",
         "",
-        f"![Updated](https://img.shields.io/badge/updated-{now_utc.replace(' ','%20').replace(',','').replace(':','%3A')}-4F5BD5?style=flat-square)",
+        "Track where candidates are reporting Summer 2026 offers, interviews, online assessments, and rejections across software, data science, quant, AI, hardware, and more.",
         "",
-        "### 😤 Struggling with interviews at these companies?",
+        "Maintained from Discord `!process` reports and paired with InterviewSense so you can prep around the companies that are actually moving right now.",
         "",
-        f"**[Get AI mock interviews built around every company in this list]({IS_URL})**",
+        f"![Updated](https://img.shields.io/badge/updated-{now_utc.replace(' ','%20').replace(',','').replace(':','%3A')}-4F5BD5?style=flat-square) "
+        f"![Reports](https://img.shields.io/badge/reports-{total_msgs:,}-4F5BD5?style=flat-square) "
+        f"![Companies](https://img.shields.io/badge/companies-{total_cos}-4F5BD5?style=flat-square) "
+        f"![Offers](https://img.shields.io/badge/offers-{total_offers}-22c55e?style=flat-square) "
+        f"![Interviews](https://img.shields.io/badge/interviews-{total_ints:,}-4F5BD5?style=flat-square) "
+        f"![OAs](https://img.shields.io/badge/OAs-{total_oas:,}-4F5BD5?style=flat-square) "
+        f"![Rejections](https://img.shields.io/badge/rejections-{total_rejs:,}-ef4444?style=flat-square)",
         "",
-        f'<img src="assets/cta.png" alt="InterviewSense" width="80" />',
+        "🧠 For practical tips on navigating the internship process, check out the guide: [Zero to Offer](ZERO_TO_OFFER.md)",
         "",
-        f"[![Start Free on InterviewSense](https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white)]({IS_URL})",
+        "🙏 Contribute by submitting an [issue](https://github.com/interviewsense/2026-Summer-Intern-Process-Tracker/issues). See the contribution guidelines [here](CONTRIBUTING.md).",
+        "",
+        "---",
+        "",
+        f"## Browse {total_msgs:,} Process Reports by Signal",
+        "",
+        f"🎉 **Offer reports** ({total_offers:,})",
+        "",
+        f"🎙️ **Interview reports** ({total_ints:,})",
+        "",
+        f"📝 **OA mentions** ({total_oas:,})",
+        "",
+        f"💀 **Rejection reports** ({total_rejs:,})",
+        "",
+        "---",
+        "",
+        '<p align="center"><strong>😤 Struggling with interviews at these companies?</strong></p>',
+        "",
+        f'<p align="center"><a href="{IS_URL}"><strong>Get AI mock interviews built around every company in this list</strong></a></p>',
+        "",
+        '<p align="center"><img src="assets/cta-small.png" alt="InterviewSense" width="220" /></p>',
+        "",
+        f'<p align="center"><a href="{IS_URL}"><img src="https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white" alt="Start Free on InterviewSense" /></a></p>',
+        "",
+        "<p align=\"center\"><em>Stop grinding random LeetCode. InterviewSense builds mock interviews around the real offer, OA, and interview patterns candidates are reporting right now.</em></p>",
+        "",
+        "---",
         "",
         "## 📡 Companies (Newest → Oldest)",
         "",
