@@ -2,9 +2,9 @@
 
 # 🧠 2026 Summer Intern Process Tracker
 
-We track every `!process` message in the **2026 Summer Intern Process Discord channel** and turn it into something actually useful — `4,216` reports, `110` companies, scraped and rebuilt every 24 hours.
+We track every `!process` message in the **2026 Summer Intern Process Discord channel** and turn it into something actually useful — `5,369` reports, `130` companies, scraped and rebuilt every 24 hours.
 
-![Updated](https://img.shields.io/badge/updated-Mar%2024%202026%2022%3A29%20UTC-4F5BD5?style=flat-square) ![Reports](https://img.shields.io/badge/reports-4,216-4F5BD5?style=flat-square) ![Offers](https://img.shields.io/badge/offers-300-22c55e?style=flat-square) ![Companies](https://img.shields.io/badge/companies-110-4F5BD5?style=flat-square) ![Cadence](https://img.shields.io/badge/updates-every%2024h-4F5BD5?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-Apr%2029%202026%2021%3A20%20UTC-4F5BD5?style=flat-square) ![Reports](https://img.shields.io/badge/reports-5,369-4F5BD5?style=flat-square) ![Offers](https://img.shields.io/badge/offers-375-22c55e?style=flat-square) ![Companies](https://img.shields.io/badge/companies-130-4F5BD5?style=flat-square) ![Cadence](https://img.shields.io/badge/updates-every%2024h-4F5BD5?style=flat-square)
 
 ---
 
@@ -22,18 +22,15 @@ We track every `!process` message in the **2026 Summer Intern Process Discord ch
 
 ---
 
-<div align="center">
-  <h3>😤 Struggling with interviews at these companies?</h3>
-  <p><strong><a href="https://interviewsense.org">Get AI mock interviews built around every company in this list</a></strong></p>
-  <a href="https://interviewsense.org">
-    <img src="assets/logo.png" width="90" alt="InterviewSense">
-  </a>
-  <br><br>
-  <a href="https://interviewsense.org">
-    <img src="https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white" alt="Start Free on InterviewSense" width="360">
-  </a>
-  <p><sub><i>Stop grinding random LeetCode. InterviewSense knows which companies are sending OAs right now and builds mock interviews around their actual process — OA patterns, behavioral rounds, quant prep, system design, and more.</i></sub></p>
-</div>
+### 😤 Struggling with interviews at these companies?
+
+**[Get AI mock interviews built around every company in this list](https://interviewsense.org)**
+
+[![InterviewSense](https://i.ibb.co/XkkvFN7D/Generated-Image-February-20-2026-7-04-PM-Photoroom.png)](https://interviewsense.org)
+
+[![Start Free on InterviewSense](https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white)](https://interviewsense.org)
+
+*Stop grinding random LeetCode. InterviewSense knows which companies are sending OAs right now and builds mock interviews around their actual process: OA patterns, behavioral rounds, quant prep, system design, and more.*
 
 ---
 
@@ -41,12 +38,12 @@ We track every `!process` message in the **2026 Summer Intern Process Discord ch
 
 | Metric | Count |
 |--------|-------|
-| 💬 Total process reports | `4,216` |
-| 🏢 Companies tracked | `110` |
-| 🎙️ Interviews reported | `842` |
-| 📝 OAs mentioned | `186` |
-| 🎉 Offers reported | `300` |
-| 💀 Rejections reported | `135` |
+| 💬 Total process reports | `5,369` |
+| 🏢 Companies tracked | `130` |
+| 🎙️ Interviews reported | `1,118` |
+| 📝 OAs mentioned | `223` |
+| 🎉 Offers reported | `375` |
+| 💀 Rejections reported | `167` |
 
 ---
 
@@ -193,6 +190,27 @@ Most discussed companies since March 1:
 
 | Date | Company | What they said |
 |------|---------|----------------|
+| `2026-04-18` | **Amazon** | amazon offer😋😋 |
+| `2026-04-17` | **Amazon** | amazon offer after hm call |
+| `2026-04-17` | **Amazon** | amazon offer |
+| `2026-04-16` | **Nvidia** | NVIDIA MLE offer |
+| `2026-04-13` | **SpaceX** | SpaceX offer |
+| `2026-04-10` | **Nvidia** | nvidia offer |
+| `2026-04-10` | **IBM** | ibm offer cambridge |
+| `2026-04-10` | **IBM** | ibm coop offer svl |
+| `2026-04-09` | **Analysis Group** | Analysis Group data science offer |
+| `2026-04-08` | **Strava** | strava android offer and accenture final round |
+| `2026-04-08` | **Nvidia** | nvidia offer in my head |
+| `2026-04-07` | **OpenAI** | openai fall offer |
+| `2026-04-05` | **OpenAI** | openai fall offer |
+| `2026-04-29` | **OpenAI** | openai fall offer |
+| `2026-04-29` | **Amazon** | amazon offer |
+| `2026-04-29` | **Amazon** | AMAZON OFFER AT 5AM. ZON |
+| `2026-04-28` | **Amazon** | ZON OFFER 🎉🎉🎉 |
+| `2026-04-24` | **Amazon** | amazon offer in one day |
+| `2026-04-23` | **IBM** | ibm intern san jose offer |
+| `2026-04-22` | **Tesla** | tesla fall offer |
+| `2026-04-22` | **Strava** | strava offer (summer 26) |
 | `2026-03-24` | **Visa** | visa offer ! |
 | `2026-03-24` | **IBM** | ibm offer ❤️ |
 | `2026-03-24` | **IBM** | ibm offer |
@@ -363,6 +381,83 @@ Sorted by total all-time reports.
 | 109 | **The Trade Desk** | `4` | `1` | `3` | `0` | `0` | `25%` | `░░░░░░░░` |
 | 110 | **Blizzard** | `1` | `0` | `1` | `0` | `0` | `0%` | `░░░░░░░░` |
 
+
+## 🆕 April 2026 Add-On Import
+
+Pulled from `2027_summer_intern_process_ra-fAr_JoC` and added on top of the existing tracker instead of replacing it.
+
+- `257` raw `!process` messages reviewed from the import.
+- `31` real companies matched from that batch.
+- `16` offers, `63` interviews, `4` OAs, and `12` rejections extracted.
+- `12` companies were not previously shown in the README company list: Notion, Point72, Arrowstreet Capital, Forward Networks, Genesis Molecular, Bytedance, Verkada, Stoke, Crusoe, Appian, Alibaba, C3 AI.
+
+### Most Mentioned In This Import
+
+- **Amazon** — `78` reports (`12` offers, `32` interviews, `2` OAs, `7` rejections)
+- **Jane Street** — `9` reports (`0` offers, `2` interviews, `0` OAs, `0` rejections)
+- **Palantir** — `8` reports (`0` offers, `6` interviews, `0` OAs, `0` rejections)
+- **Optiver** — `8` reports (`0` offers, `2` interviews, `1` OAs, `1` rejections)
+- **Tesla** — `8` reports (`1` offers, `5` interviews, `0` OAs, `0` rejections)
+- **Notion** — `7` reports (`0` offers, `7` interviews, `0` OAs, `0` rejections)
+- **TikTok** — `7` reports (`0` offers, `0` interviews, `0` OAs, `1` rejections)
+- **OpenAI** — `5` reports (`1` offers, `0` interviews, `0` OAs, `1` rejections)
+- **SpaceX** — `4` reports (`0` offers, `3` interviews, `1` OAs, `0` rejections)
+- **Point72** — `3` reports (`0` offers, `1` interviews, `0` OAs, `1` rejections)
+
+### Latest Offers From This Import
+
+| Date | Company | What they said |
+|------|---------|----------------|
+| `2026-04-29` | **OpenAI** | openai fall offer |
+| `2026-04-29` | **Amazon** | amazon offer |
+| `2026-04-29` | **Amazon** | AMAZON OFFER AT 5AM. ZON |
+| `2026-04-28` | **Amazon** | ZON OFFER 🎉🎉🎉 |
+| `2026-04-24` | **Amazon** | amazon offer in one day |
+| `2026-04-23` | **IBM** | ibm intern san jose offer |
+| `2026-04-22` | **Tesla** | tesla fall offer |
+| `2026-04-22` | **Strava** | strava offer (summer 26) |
+
 ---
 
-*Scraped and rebuilt every 24 hours. Last run: Mar 24, 2026 22:29 UTC. Source: 4,216 Discord `!process` messages.*
+## 🆕 April 2026 Add-On Import 2
+
+Pulled from `2026_summer_intern_process_1lhWmjuK_u` and layered on top of the existing tracker.
+
+- `896` raw `!process` messages reviewed from the import.
+- `548` matched messages attached to real companies.
+- `26` companies matched from that batch.
+- `59` offers, `213` interviews, `33` OAs, and `20` rejections extracted.
+- New company names added in this import: Analysis Group, Bloomberg, Brex, Expedia, Fifth Third Bank, HP, HRT, Jump, Notion, Nvidia, Rocket Lab, Texas Instruments, Verkada.
+
+### Most Mentioned In This Import
+
+- **Amazon** — `352` reports (`32` offers, `157` interviews, `24` OAs, `10` rejections)
+- **IBM** — `42` reports (`12` offers, `7` interviews, `1` OAs, `0` rejections)
+- **Optiver** — `22` reports (`1` offers, `9` interviews, `0` OAs, `1` rejections)
+- **TikTok** — `21` reports (`0` offers, `7` interviews, `5` OAs, `2` rejections)
+- **Palantir** — `15` reports (`0` offers, `9` interviews, `1` OAs, `0` rejections)
+- **Apple** — `14` reports (`1` offers, `4` interviews, `0` OAs, `0` rejections)
+- **Nvidia** — `13` reports (`3` offers, `2` interviews, `0` OAs, `1` rejections)
+- **OpenAI** — `9` reports (`2` offers, `2` interviews, `0` OAs, `2` rejections)
+- **Snowflake** — `8` reports (`0` offers, `3` interviews, `0` OAs, `1` rejections)
+- **Verkada** — `7` reports (`0` offers, `1` interviews, `1` OAs, `1` rejections)
+- **SpaceX** — `7` reports (`4` offers, `0` interviews, `0` OAs, `0` rejections)
+- **Notion** — `6` reports (`0` offers, `2` interviews, `0` OAs, `0` rejections)
+
+### Latest Offers From This Import
+
+| Date | Company | What they said |
+|------|---------|----------------|
+| `2026-04-18` | **Amazon** | amazon offer😋😋 |
+| `2026-04-17` | **Amazon** | amazon offer after hm call |
+| `2026-04-17` | **Amazon** | amazon offer |
+| `2026-04-16` | **Nvidia** | NVIDIA MLE offer |
+| `2026-04-13` | **SpaceX** | SpaceX offer |
+| `2026-04-10` | **Nvidia** | nvidia offer |
+| `2026-04-10` | **IBM** | ibm offer cambridge |
+| `2026-04-10` | **IBM** | ibm coop offer svl |
+| `2026-04-09` | **Analysis Group** | Analysis Group data science offer |
+
+---
+
+*Scraped and rebuilt every 24 hours. Last run: Apr 29, 2026 21:20 UTC. Source: 5,369 Discord `!process` messages.*
