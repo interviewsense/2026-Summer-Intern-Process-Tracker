@@ -26,7 +26,9 @@ We track every `!process` message in the **2026 Summer Intern Process Discord ch
 
 **[Get AI mock interviews built around every company in this list](https://interviewsense.org)**
 
-[![InterviewSense](https://i.ibb.co/XkkvFN7D/Generated-Image-February-20-2026-7-04-PM-Photoroom.png)](https://interviewsense.org)
+<a href="https://interviewsense.org">
+  <img src="https://i.ibb.co/XkkvFN7D/Generated-Image-February-20-2026-7-04-PM-Photoroom.png" alt="InterviewSense" width="140" />
+</a>
 
 [![Start Free on InterviewSense](https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white)](https://interviewsense.org)
 
