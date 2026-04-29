@@ -317,8 +317,6 @@ lines = []
 
 # ── Header ────────────────────────────────────────────────────────────────────
 lines += [
-    f"<!-- AUTO-GENERATED - run scripts/generate_readme.py to update -->",
-    "",
     f"# 🧠 2026 Summer Intern Process Tracker",
     f"",
     f"We track every `!process` message in the **2026 Summer Intern Process Discord channel** and turn it into something actually useful — `{total_msgs:,}` reports, `{num_cos}` companies, scraped and rebuilt every 24 hours.",
@@ -379,18 +377,17 @@ lines += [
 
 # ── InterviewSense CTA ─────────────────────────────────────────────────────────
 lines += [
-    f'<div align="center">',
-    f'  <h3>😤 Struggling with interviews at these companies?</h3>',
-    f'  <p><strong><a href="{IS_URL}">Get AI mock interviews built around every company in this list</a></strong></p>',
-    f'  <a href="{IS_URL}">',
-    f'    <img src="assets/logo.png" width="90" alt="InterviewSense">',
-    f'  </a>',
-    f'  <br><br>',
-    f'  <a href="{IS_URL}">',
-    f'    <img src="https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white" alt="Start Free on InterviewSense" width="360">',
-    f'  </a>',
-    f'  <p><sub><i>Stop grinding random LeetCode. InterviewSense knows which companies are sending OAs right now and builds mock interviews around their actual process — OA patterns, behavioral rounds, quant prep, system design, and more.</i></sub></p>',
-    f'</div>',
+    f"### 😤 Struggling with interviews at these companies?",
+    f"",
+    f"**[Get AI mock interviews built around every company in this list]({IS_URL})**",
+    f"",
+    f'<a href="{IS_URL}">',
+    f'  <img src="assets/logo.png" alt="InterviewSense" width="90" />',
+    f"</a>",
+    f"",
+    f"[![Start Free on InterviewSense](https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white)]({IS_URL})",
+    f"",
+    f"*Stop grinding random LeetCode. InterviewSense knows which companies are sending OAs right now and builds mock interviews around their actual process: OA patterns, behavioral rounds, quant prep, system design, and more.*",
     f"",
     f"---",
     f"",

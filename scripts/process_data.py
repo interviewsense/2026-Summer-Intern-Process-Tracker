@@ -8,6 +8,7 @@ import glob
 import json
 import os
 import re
+import sys
 from collections import defaultdict, Counter
 from datetime import datetime
 
@@ -230,6 +231,26 @@ output = {
 }
 
 out_path = os.path.join(OUT_DIR, "intern_data.json")
+
+if os.path.exists(out_path) and os.environ.get("ALLOW_DATA_SHRINK") != "1":
+    with open(out_path, encoding="utf-8") as fp:
+        existing = json.load(fp)
+    existing_stats = existing.get("stats", {})
+    existing_process = existing_stats.get("total_process_msgs", 0)
+    existing_companies = existing_stats.get("total_companies_tracked", 0)
+    if (
+        existing_process and total_process < existing_process * 0.75
+    ) or (
+        existing_companies and len(companies_list) < existing_companies * 0.75
+    ):
+        print(
+            "Refusing to overwrite public/data/intern_data.json because the new scrape "
+            f"looks much smaller ({total_process} msgs / {len(companies_list)} companies) "
+            f"than the existing dataset ({existing_process} msgs / {existing_companies} companies). "
+            "Set ALLOW_DATA_SHRINK=1 to force the write."
+        )
+        sys.exit(1)
+
 with open(out_path, "w", encoding="utf-8") as fp:
     json.dump(output, fp, indent=2)
 

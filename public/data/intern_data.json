@@ -1,23 +1,23 @@
 {
-  "generated": "2026-04-29T21:20:04.191068+00:00",
+  "generated": "2026-04-29T21:51:01.906957Z",
   "stats": {
-    "total_process_msgs": 1453,
-    "total_companies_tracked": 53,
-    "total_offers": 95,
-    "total_rejections": 52,
-    "total_interviews": 352,
-    "total_oas": 38
+    "total_process_msgs": 5369,
+    "total_companies_tracked": 130,
+    "total_offers": 375,
+    "total_rejections": 167,
+    "total_interviews": 1118,
+    "total_oas": 223
   },
   "companies": [
     {
-      "name": "amazon",
-      "count": 497,
+      "name": "Amazon",
+      "count": 621,
       "stages": {
         "offer": 48,
-        "rejection": 23,
-        "interview": 226,
-        "oa": 26,
-        "question": 174
+        "rejection": 18,
+        "interview": 230,
+        "oa": 42,
+        "question": 283
       },
       "messages": [
         {
@@ -761,14 +761,14 @@
       ]
     },
     {
-      "name": "ibm",
-      "count": 74,
+      "name": "IBM",
+      "count": 279,
       "stages": {
-        "offer": 21,
-        "rejection": 2,
-        "interview": 16,
-        "oa": 1,
-        "question": 34
+        "offer": 48,
+        "rejection": 7,
+        "interview": 87,
+        "oa": 2,
+        "question": 135
       },
       "messages": [
         {
@@ -1345,14 +1345,1335 @@
       ]
     },
     {
-      "name": "optiver",
+      "name": "Visa",
+      "count": 144,
+      "stages": {
+        "offer": 17,
+        "rejection": 4,
+        "interview": 40,
+        "oa": 16,
+        "question": 67
+      },
+      "messages": [
+        {
+          "content": "!process visa offer !",
+          "date": "2026-03-24",
+          "author": "scripzy",
+          "stage": "offer"
+        },
+        {
+          "content": "!process Visa",
+          "date": "2026-03-24",
+          "author": "UniqueUsername",
+          "stage": "question"
+        },
+        {
+          "content": "!process visa final how is it",
+          "date": "2026-03-24",
+          "author": "BakedBeans",
+          "stage": "question"
+        },
+        {
+          "content": "!process anyone have a OOD design / design problem for visa swe intern interview (technical section)?",
+          "date": "2026-03-23",
+          "author": "wenk",
+          "stage": "interview"
+        },
+        {
+          "content": "!process visa final, how hard are tech",
+          "date": "2026-03-23",
+          "author": "madao",
+          "stage": "question"
+        },
+        {
+          "content": "!process visa swe intern final round, recruiter says that technical section is either leetcode or system design, and that it would be like the visa swe OA. Thing is, on the OA there was one system designy question which was easy asf, just had to use a 1d array if I remember corre",
+          "date": "2026-03-20",
+          "author": "wenk",
+          "stage": "interview"
+        },
+        {
+          "content": "!process visa swe offer foster city",
+          "date": "2026-03-20",
+          "author": "madao",
+          "stage": "offer"
+        },
+        {
+          "content": "!process advice for visa swe intern final?",
+          "date": "2026-03-20",
+          "author": "ferraroe",
+          "stage": "question"
+        },
+        {
+          "content": "!process interviewed with visa hiring",
+          "date": "2026-03-19",
+          "author": "madao",
+          "stage": "interview"
+        },
+        {
+          "content": "!process visa interview done",
+          "date": "2026-03-18",
+          "author": "scripzy",
+          "stage": "interview"
+        },
+        {
+          "content": "!process how long for visa interview after questionnaire?",
+          "date": "2026-03-18",
+          "author": "dhanboss",
+          "stage": "interview"
+        },
+        {
+          "content": "!process visa final (how long does it",
+          "date": "2026-03-18",
+          "author": "buzzlightyear",
+          "stage": "question"
+        },
+        {
+          "content": "!process Visa interview",
+          "date": "2026-03-18",
+          "author": "Connor",
+          "stage": "interview"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-18",
+          "count": 4
+        },
+        {
+          "date": "2026-03-19",
+          "count": 1
+        },
+        {
+          "date": "2026-03-20",
+          "count": 3
+        },
+        {
+          "date": "2026-03-23",
+          "count": 2
+        },
+        {
+          "date": "2026-03-24",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Apple",
+      "count": 118,
+      "stages": {
+        "offer": 8,
+        "rejection": 8,
+        "interview": 31,
+        "oa": 1,
+        "question": 70
+      },
+      "messages": [
+        {
+          "content": "!process apple health team int, pls helpme  much appraciate!",
+          "date": "2026-04-18",
+          "author": "free_to_play",
+          "stage": "question"
+        },
+        {
+          "content": "!process has anyone interviewed with apple ads intern?",
+          "date": "2026-04-17",
+          "author": "teiko",
+          "stage": "interview"
+        },
+        {
+          "content": "!process Apple Health Team int, pls dm if you have done! much thanks",
+          "date": "2026-04-15",
+          "author": "free_to_play",
+          "stage": "question"
+        },
+        {
+          "content": "!process apple Siri Dm me (for my friend)",
+          "date": "2026-04-13",
+          "author": "Ronit",
+          "stage": "question"
+        },
+        {
+          "content": "!process apple pray \ud83d\ude4f",
+          "date": "2026-04-12",
+          "author": "Ronit",
+          "stage": "question"
+        },
+        {
+          "content": "!process apple recruiter reached out -",
+          "date": "2026-04-10",
+          "author": "jonesy2092",
+          "stage": "interview"
+        },
+        {
+          "content": "!process apple pray day 1, zon pray 1",
+          "date": "2026-04-05",
+          "author": "Ronit",
+          "stage": "question"
+        },
+        {
+          "content": "!process apple ml offer for <@1288526661557420055> dm him for advice",
+          "date": "2026-04-03",
+          "author": "twohundredsonly",
+          "stage": "question"
+        },
+        {
+          "content": "!process has anyone been able to push apple fall",
+          "date": "2026-04-03",
+          "author": "ok1234____",
+          "stage": "question"
+        },
+        {
+          "content": "!process Apple 30min b2b what to expect dm please (Apple Ads Business Insights)",
+          "date": "2026-04-01",
+          "author": "m3pnhb3k",
+          "stage": "question"
+        },
+        {
+          "content": "!process apple siri ( recruiter not replyong ) { for my friend }",
+          "date": "2026-04-01",
+          "author": "Ronit",
+          "stage": "question"
+        },
+        {
+          "content": "!process Apple, does anyone know how many days after they typically send rej/offer?",
+          "date": "2026-03-27",
+          "author": "xedra",
+          "stage": "interview"
+        },
+        {
+          "content": "!process apple Cupertino apple ads engineering proc r1 anyone? (dm if done)",
+          "date": "2026-03-27",
+          "author": "Ago",
+          "stage": "interview"
+        },
+        {
+          "content": "!process apple wallet nyc offer",
+          "date": "2026-03-25",
+          "author": "Hot Shahcolate\u2122",
+          "stage": "offer"
+        },
+        {
+          "content": "!process apple pay",
+          "date": "2026-03-24",
+          "author": "eog",
+          "stage": "question"
+        },
+        {
+          "content": "!process apple (for my friend)  what to",
+          "date": "2026-03-23",
+          "author": "sushi",
+          "stage": "question"
+        },
+        {
+          "content": "!process is anyone interviewing apple ads dm",
+          "date": "2026-03-23",
+          "author": "ok1234____",
+          "stage": "interview"
+        },
+        {
+          "content": "!process Apple swe",
+          "date": "2026-03-20",
+          "author": "xedra",
+          "stage": "question"
+        },
+        {
+          "content": "!process fuck apple",
+          "date": "2026-03-18",
+          "author": "Thutoy",
+          "stage": "question"
+        },
+        {
+          "content": "!process does Apple do fall internship?",
+          "date": "2026-03-18",
+          "author": "Reflex",
+          "stage": "question"
+        }
+      ],
+      "threads": [
+        {
+          "title": "apple swe intern r1 (does apple",
+          "messages": [
+            {
+              "content": "Alr thats a different process",
+              "date": "2026-03-21",
+              "author": "Enes"
+            }
+          ]
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-03-18",
+          "count": 2
+        },
+        {
+          "date": "2026-03-20",
+          "count": 1
+        },
+        {
+          "date": "2026-03-23",
+          "count": 2
+        },
+        {
+          "date": "2026-03-24",
+          "count": 1
+        },
+        {
+          "date": "2026-03-25",
+          "count": 1
+        },
+        {
+          "date": "2026-03-27",
+          "count": 2
+        },
+        {
+          "date": "2026-04-01",
+          "count": 2
+        },
+        {
+          "date": "2026-04-03",
+          "count": 2
+        },
+        {
+          "date": "2026-04-05",
+          "count": 1
+        },
+        {
+          "date": "2026-04-10",
+          "count": 1
+        },
+        {
+          "date": "2026-04-12",
+          "count": 1
+        },
+        {
+          "date": "2026-04-13",
+          "count": 1
+        },
+        {
+          "date": "2026-04-15",
+          "count": 1
+        },
+        {
+          "date": "2026-04-17",
+          "count": 1
+        },
+        {
+          "date": "2026-04-18",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Capital One",
+      "count": 107,
+      "stages": {
+        "offer": 12,
+        "rejection": 7,
+        "interview": 16,
+        "oa": 4,
+        "question": 68
+      },
+      "messages": [
+        {
+          "content": "!process should i finally renege C1 for",
+          "date": "2026-04-24",
+          "author": "Zlin_Eleven",
+          "stage": "question"
+        },
+        {
+          "content": "!process capital one reachout wtf",
+          "date": "2026-04-22",
+          "author": "must",
+          "stage": "question"
+        },
+        {
+          "content": "!process c1 welcome day food (thank you",
+          "date": "2026-03-27",
+          "author": "fer",
+          "stage": "question"
+        },
+        {
+          "content": "!process c1 (lounge) exploding offer after waitlist",
+          "date": "2026-03-25",
+          "author": "Charlie",
+          "stage": "question"
+        },
+        {
+          "content": "!process capital one paze offer",
+          "date": "2026-03-24",
+          "author": "nikbot05",
+          "stage": "offer"
+        },
+        {
+          "content": "!process c1 reject \ud83d\udd25",
+          "date": "2026-03-24",
+          "author": "bandybot",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process c1 rej \ud83d\ude14 email said they reached hc, not sure if that's true or not",
+          "date": "2026-03-20",
+          "author": "The1stGamerInTheUniverse",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process c1 rejected same email",
+          "date": "2026-03-20",
+          "author": "Gabe",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process UMD + Capital one Spring +",
+          "date": "2026-03-19",
+          "author": "sb",
+          "stage": "question"
+        }
+      ],
+      "threads": [
+        {
+          "title": "capital one reachout wtf",
+          "messages": [
+            {
+              "content": "!process capital one reachout wtf",
+              "date": "2026-04-22",
+              "author": "been"
+            }
+          ]
+        },
+        {
+          "title": "is c1 just pass 2!3 then offer",
+          "messages": [
+            {
+              "content": "Thank you for taking the time to meet with our team. It is not the news I was hoping to deliver, but I wanted to let you know that we will not be able to extend a Technology Internship Program offer at this time. As your recruiter, I am your advocate throughout the process and do not have any direct feedback that I am able to share.",
+              "date": "2026-03-24",
+              "author": "dome"
+            },
+            {
+              "content": "they rej me for that job id tho and put in process for a diff id tho",
+              "date": "2026-03-23",
+              "author": "dome"
+            },
+            {
+              "content": "bro this is my first real process, help me out",
+              "date": "2026-03-20",
+              "author": "powertoons"
+            }
+          ]
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-03-19",
+          "count": 1
+        },
+        {
+          "date": "2026-03-20",
+          "count": 2
+        },
+        {
+          "date": "2026-03-24",
+          "count": 2
+        },
+        {
+          "date": "2026-03-25",
+          "count": 1
+        },
+        {
+          "date": "2026-03-27",
+          "count": 1
+        },
+        {
+          "date": "2026-04-22",
+          "count": 1
+        },
+        {
+          "date": "2026-04-24",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "count": 107,
+      "stages": {
+        "offer": 6,
+        "rejection": 3,
+        "interview": 26,
+        "oa": 7,
+        "question": 65
+      },
+      "messages": [
+        {
+          "content": "!process openai fall offer",
+          "date": "2026-04-29",
+          "author": "twohundredsonly",
+          "stage": "offer"
+        },
+        {
+          "content": "!process openai fall reject <24h after",
+          "date": "2026-04-27",
+          "author": "min",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process anyone else get an interesting email from openai (edit: not an offer)",
+          "date": "2026-04-22",
+          "author": "venusmercury",
+          "stage": "question"
+        },
+        {
+          "content": "!process optiver/openai full question bank 2027",
+          "date": "2026-04-22",
+          "author": "kevin quo zhao",
+          "stage": "question"
+        },
+        {
+          "content": "!process does oai push crudSWE to fall 2027?",
+          "date": "2026-04-19",
+          "author": "been",
+          "stage": "question"
+        },
+        {
+          "content": "!process openai fall offer",
+          "date": "2026-04-07",
+          "author": "Polkas D",
+          "stage": "offer"
+        },
+        {
+          "content": "!process openai forgot about me... final 10+ days ago then ghosted",
+          "date": "2026-04-06",
+          "author": "venusmercury",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process openai fall offer",
+          "date": "2026-04-05",
+          "author": "Dark",
+          "stage": "offer"
+        },
+        {
+          "content": "!process openai emt r1",
+          "date": "2026-04-04",
+          "author": "cool sidd",
+          "stage": "interview"
+        },
+        {
+          "content": "!process openai final last wednesday, did not hear back yet and behavioural was mid, am i cooked?",
+          "date": "2026-03-31",
+          "author": "venusmercury",
+          "stage": "question"
+        },
+        {
+          "content": "!process openai fall r1 anyone scheduled",
+          "date": "2026-03-30",
+          "author": "pedri",
+          "stage": "interview"
+        },
+        {
+          "content": "!process OpenAI",
+          "date": "2026-03-29",
+          "author": "yellow213342",
+          "stage": "question"
+        },
+        {
+          "content": "!process openai tech went well and behavioural went ok am i cooked?",
+          "date": "2026-03-26",
+          "author": "venusmercury",
+          "stage": "question"
+        },
+        {
+          "content": "!process openai fall reject after",
+          "date": "2026-03-26",
+          "author": "AlexWala",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process openai r1",
+          "date": "2026-03-22",
+          "author": "inf.inite",
+          "stage": "interview"
+        },
+        {
+          "content": "!process anyone have openai swe intern final round today/recently?",
+          "date": "2026-03-21",
+          "author": "a",
+          "stage": "interview"
+        },
+        {
+          "content": "!process openai r1 (dm to trade i have",
+          "date": "2026-03-20",
+          "author": "livvy",
+          "stage": "interview"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-20",
+          "count": 1
+        },
+        {
+          "date": "2026-03-21",
+          "count": 1
+        },
+        {
+          "date": "2026-03-22",
+          "count": 1
+        },
+        {
+          "date": "2026-03-26",
+          "count": 2
+        },
+        {
+          "date": "2026-03-29",
+          "count": 1
+        },
+        {
+          "date": "2026-03-30",
+          "count": 1
+        },
+        {
+          "date": "2026-03-31",
+          "count": 1
+        },
+        {
+          "date": "2026-04-04",
+          "count": 1
+        },
+        {
+          "date": "2026-04-05",
+          "count": 1
+        },
+        {
+          "date": "2026-04-06",
+          "count": 1
+        },
+        {
+          "date": "2026-04-07",
+          "count": 1
+        },
+        {
+          "date": "2026-04-19",
+          "count": 1
+        },
+        {
+          "date": "2026-04-22",
+          "count": 2
+        },
+        {
+          "date": "2026-04-27",
+          "count": 1
+        },
+        {
+          "date": "2026-04-29",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Google",
+      "count": 87,
+      "stages": {
+        "offer": 16,
+        "rejection": 2,
+        "interview": 13,
+        "oa": 3,
+        "question": 53
+      },
+      "messages": [
+        {
+          "content": "!process google offer",
+          "date": "2026-03-24",
+          "author": "Obi, the Awesome",
+          "stage": "offer"
+        },
+        {
+          "content": "!process is google still team matching?",
+          "date": "2026-03-23",
+          "author": "s",
+          "stage": "question"
+        },
+        {
+          "content": "!process google search",
+          "date": "2026-03-23",
+          "author": "been",
+          "stage": "question"
+        },
+        {
+          "content": "!process has anyone been getting google tm calls recently \ud83d\ude2d",
+          "date": "2026-03-19",
+          "author": "s",
+          "stage": "question"
+        },
+        {
+          "content": "!process ASU + Capital one summer + Zonami Fall, reneged google, declined plaid and stripe !!!",
+          "date": "2026-03-19",
+          "author": "_hi_",
+          "stage": "question"
+        },
+        {
+          "content": "!process spaceX, Google, Snap ML offer,",
+          "date": "2026-03-19",
+          "author": "SpadeAce",
+          "stage": "offer"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-19",
+          "count": 3
+        },
+        {
+          "date": "2026-03-23",
+          "count": 2
+        },
+        {
+          "date": "2026-03-24",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Nvidia",
+      "count": 81,
+      "stages": {
+        "offer": 10,
+        "rejection": 3,
+        "interview": 26,
+        "oa": 0,
+        "question": 42
+      },
+      "messages": [
+        {
+          "content": "!process nvidia fall",
+          "date": "2026-04-27",
+          "author": "dotjackal",
+          "stage": "question"
+        },
+        {
+          "content": "!process NVIDIA MLE offer",
+          "date": "2026-04-16",
+          "author": "Iron",
+          "stage": "offer"
+        },
+        {
+          "content": "!process nvidia offer",
+          "date": "2026-04-10",
+          "author": "aidan",
+          "stage": "offer"
+        },
+        {
+          "content": "!process nvidia offer in my head",
+          "date": "2026-04-08",
+          "author": "dyldo",
+          "stage": "offer"
+        },
+        {
+          "content": "!process nvidia interview finished, prayers in progress",
+          "date": "2026-04-07",
+          "author": "dyldo",
+          "stage": "interview"
+        },
+        {
+          "content": "!process nvidia rej",
+          "date": "2026-04-06",
+          "author": "Dork",
+          "stage": "question"
+        },
+        {
+          "content": "!process nvidia prayer day 30 \ud83d\ude4f",
+          "date": "2026-04-02",
+          "author": "techthief25",
+          "stage": "question"
+        },
+        {
+          "content": "!process nvidia round 2",
+          "date": "2026-04-01",
+          "author": "techthief25",
+          "stage": "interview"
+        },
+        {
+          "content": "!process nvidia prayer day 29",
+          "date": "2026-04-01",
+          "author": "techthief25",
+          "stage": "question"
+        },
+        {
+          "content": "!process nvidia prayer day 28",
+          "date": "2026-03-31",
+          "author": "techthief25",
+          "stage": "question"
+        },
+        {
+          "content": "!process Nvidia shafted me for devtech holy",
+          "date": "2026-03-31",
+          "author": "beli",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process nvidia please",
+          "date": "2026-03-30",
+          "author": "techthief25",
+          "stage": "question"
+        },
+        {
+          "content": "!process nvidia math libraries anyone?",
+          "date": "2026-03-27",
+          "author": "ajd9",
+          "stage": "question"
+        },
+        {
+          "content": "!process Nvidia Performance Software Engineer Intern, Tensor RT anyone else got??",
+          "date": "2026-03-25",
+          "author": "Ninja",
+          "stage": "question"
+        },
+        {
+          "content": "!process what to expect for NVIDIA GPU server SWE Intern interview? would the interview emphasize software, cpu  hardware/arch, or gpu  hardware/arch?",
+          "date": "2026-03-19",
+          "author": "large",
+          "stage": "interview"
+        },
+        {
+          "content": "!process what to expect for NVIDIA GPU server SWE Intern interview? would the interview emphasize software, cpu  hardware/arch, or gpu  hardware/arch?",
+          "date": "2026-03-18",
+          "author": "large",
+          "stage": "interview"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-18",
+          "count": 1
+        },
+        {
+          "date": "2026-03-19",
+          "count": 1
+        },
+        {
+          "date": "2026-03-25",
+          "count": 1
+        },
+        {
+          "date": "2026-03-27",
+          "count": 1
+        },
+        {
+          "date": "2026-03-30",
+          "count": 1
+        },
+        {
+          "date": "2026-03-31",
+          "count": 2
+        },
+        {
+          "date": "2026-04-01",
+          "count": 2
+        },
+        {
+          "date": "2026-04-02",
+          "count": 1
+        },
+        {
+          "date": "2026-04-06",
+          "count": 1
+        },
+        {
+          "date": "2026-04-07",
+          "count": 1
+        },
+        {
+          "date": "2026-04-08",
+          "count": 1
+        },
+        {
+          "date": "2026-04-10",
+          "count": 1
+        },
+        {
+          "date": "2026-04-16",
+          "count": 1
+        },
+        {
+          "date": "2026-04-27",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Citadel",
+      "count": 73,
+      "stages": {
+        "offer": 3,
+        "rejection": 5,
+        "interview": 18,
+        "oa": 3,
+        "question": 44
+      },
+      "messages": [
+        {
+          "content": "!process reach out from citadel's",
+          "date": "2026-04-21",
+          "author": "yeema",
+          "stage": "question"
+        },
+        {
+          "content": "!process applied citadel launch in march, aced oa, got fast tracked to 2nd round a week ago, interviewed on monday no response yet. how long does citadel take to get back?",
+          "date": "2026-04-16",
+          "author": "david",
+          "stage": "oa"
+        },
+        {
+          "content": "!process citadel quant research anaylst r1",
+          "date": "2026-04-06",
+          "author": "ok-bus-23229",
+          "stage": "interview"
+        },
+        {
+          "content": "!process citadel qr first round what to expect?",
+          "date": "2026-04-03",
+          "author": "NamanG0yal",
+          "stage": "question"
+        },
+        {
+          "content": "!process anyone willing to share citadel swe interview questions?",
+          "date": "2026-03-30",
+          "author": "jerrywantsjob",
+          "stage": "interview"
+        },
+        {
+          "content": "!process citadel swe  intern",
+          "date": "2026-03-30",
+          "author": "Hamzy",
+          "stage": "question"
+        },
+        {
+          "content": "!process Citadel",
+          "date": "2026-03-29",
+          "author": "NamanG0yal",
+          "stage": "question"
+        },
+        {
+          "content": "!process jane street reject\n!process citadel superday\n!process qrt r2 (no idea what to expect, pls dm)",
+          "date": "2026-03-24",
+          "author": "kolaf",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process Citadel offer",
+          "date": "2026-03-23",
+          "author": "sonic",
+          "stage": "offer"
+        },
+        {
+          "content": "!process citadel ghost for a month after leadership",
+          "date": "2026-03-23",
+          "author": "raph",
+          "stage": "question"
+        },
+        {
+          "content": "!process citadel qr analyst intern",
+          "date": "2026-03-22",
+          "author": "NamanG0yal",
+          "stage": "question"
+        }
+      ],
+      "threads": [
+        {
+          "title": "reach out from citadel's",
+          "messages": [
+            {
+              "content": "!process reach out from citadel's insecurities, pdt's partners, and monthly HRT prescriptions? what is this?",
+              "date": "2026-04-21",
+              "author": "Mitochondria"
+            }
+          ]
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-03-22",
+          "count": 1
+        },
+        {
+          "date": "2026-03-23",
+          "count": 2
+        },
+        {
+          "date": "2026-03-24",
+          "count": 1
+        },
+        {
+          "date": "2026-03-29",
+          "count": 1
+        },
+        {
+          "date": "2026-03-30",
+          "count": 2
+        },
+        {
+          "date": "2026-04-03",
+          "count": 1
+        },
+        {
+          "date": "2026-04-06",
+          "count": 1
+        },
+        {
+          "date": "2026-04-16",
+          "count": 1
+        },
+        {
+          "date": "2026-04-21",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "count": 70,
+      "stages": {
+        "offer": 13,
+        "rejection": 6,
+        "interview": 13,
+        "oa": 3,
+        "question": 35
+      },
+      "messages": [
+        {
+          "content": "!process microsoft waterloo fall posting",
+          "date": "2026-04-02",
+          "author": "Soup",
+          "stage": "question"
+        },
+        {
+          "content": "!process microsoft research intern",
+          "date": "2026-04-01",
+          "author": "Jason l",
+          "stage": "question"
+        },
+        {
+          "content": "!process microsoft apply (data engineer)",
+          "date": "2026-03-28",
+          "author": "Junxiang Lin",
+          "stage": "question"
+        },
+        {
+          "content": "!process can u move microsoft offer to toronto",
+          "date": "2026-03-26",
+          "author": "killgrind",
+          "stage": "offer"
+        },
+        {
+          "content": "!process microsoft swe offer (reneged",
+          "date": "2026-03-25",
+          "author": "Brandon",
+          "stage": "offer"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-25",
+          "count": 1
+        },
+        {
+          "date": "2026-03-26",
+          "count": 1
+        },
+        {
+          "date": "2026-03-28",
+          "count": 1
+        },
+        {
+          "date": "2026-04-01",
+          "count": 1
+        },
+        {
+          "date": "2026-04-02",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Tesla",
+      "count": 68,
+      "stages": {
+        "offer": 1,
+        "rejection": 1,
+        "interview": 24,
+        "oa": 0,
+        "question": 42
+      },
+      "messages": [
+        {
+          "content": "!process pm me if u did **tesla ai eng intern proc ** or **tesla ap proc**",
+          "date": "2026-04-28",
+          "author": "vtibuyer",
+          "stage": "question"
+        },
+        {
+          "content": "!process tweaking abt r2 Tesla fall",
+          "date": "2026-04-25",
+          "author": "RAGBOB",
+          "stage": "interview"
+        },
+        {
+          "content": "!process tesla intv tmrw might be fried help me out any way interviewer is some ml dude",
+          "date": "2026-04-24",
+          "author": "kite",
+          "stage": "interview"
+        },
+        {
+          "content": "!process PM ME IF U INTERVIEWED TESLA",
+          "date": "2026-04-24",
+          "author": "Spade",
+          "stage": "interview"
+        },
+        {
+          "content": "!process tesla autopilot ml",
+          "date": "2026-04-23",
+          "author": "vtibuyer",
+          "stage": "question"
+        },
+        {
+          "content": "!process tesla autopilot interview (PM)",
+          "date": "2026-04-22",
+          "author": "vtibuyer",
+          "stage": "interview"
+        },
+        {
+          "content": "!process tesla fall offer",
+          "date": "2026-04-22",
+          "author": "rglarp",
+          "stage": "offer"
+        },
+        {
+          "content": "!process tesla update systems r2 (any info)?",
+          "date": "2026-04-20",
+          "author": "Please give me MAANG",
+          "stage": "interview"
+        },
+        {
+          "content": "!process anyone interviewing Tesla IT App team?",
+          "date": "2026-03-23",
+          "author": "Wt.nb",
+          "stage": "interview"
+        },
+        {
+          "content": "!process tesla data engineer energy",
+          "date": "2026-03-21",
+          "author": "Timmy",
+          "stage": "question"
+        },
+        {
+          "content": "!process SRE intern at Tesla. Anyone who",
+          "date": "2026-03-20",
+          "author": "Pizza",
+          "stage": "question"
+        },
+        {
+          "content": "!process tesla interview ai swe infra",
+          "date": "2026-03-19",
+          "author": "Bhadroro",
+          "stage": "interview"
+        }
+      ],
+      "threads": [
+        {
+          "title": "tesla interview",
+          "messages": [
+            {
+              "content": "Also in process\nPls dm",
+              "date": "2026-03-23",
+              "author": "Ta733"
+            }
+          ]
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-03-19",
+          "count": 1
+        },
+        {
+          "date": "2026-03-20",
+          "count": 1
+        },
+        {
+          "date": "2026-03-21",
+          "count": 1
+        },
+        {
+          "date": "2026-03-23",
+          "count": 1
+        },
+        {
+          "date": "2026-04-20",
+          "count": 1
+        },
+        {
+          "date": "2026-04-22",
+          "count": 2
+        },
+        {
+          "date": "2026-04-23",
+          "count": 1
+        },
+        {
+          "date": "2026-04-24",
+          "count": 2
+        },
+        {
+          "date": "2026-04-25",
+          "count": 1
+        },
+        {
+          "date": "2026-04-28",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Stripe",
+      "count": 57,
+      "stages": {
+        "offer": 4,
+        "rejection": 4,
+        "interview": 2,
+        "oa": 5,
+        "question": 42
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "LinkedIn",
       "count": 39,
       "stages": {
         "offer": 1,
-        "rejection": 2,
+        "rejection": 15,
+        "interview": 8,
+        "oa": 3,
+        "question": 12
+      },
+      "messages": [
+        {
+          "content": "!process amazon how to get linkedin animation",
+          "date": "2026-04-21",
+          "author": "allarkvarkk",
+          "stage": "question"
+        },
+        {
+          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
+          "date": "2026-03-24",
+          "author": "yellow213342",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
+          "date": "2026-03-24",
+          "author": "railgunbiggestfanboy",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
+          "date": "2026-03-24",
+          "author": "glizzy god",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
+          "date": "2026-03-24",
+          "author": "_hi_",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
+          "date": "2026-03-24",
+          "author": "RAGBOB",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process actually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just sile",
+          "date": "2026-03-24",
+          "author": "MikeandIkes",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
+          "date": "2026-03-24",
+          "author": "Ablog",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process recruiter at strava viewed my LinkedIn twice, but no interview yet<:sadge:747169038911930418>",
+          "date": "2026-03-18",
+          "author": "row",
+          "stage": "interview"
+        },
+        {
+          "content": "!process does linkedin do fall intern?",
+          "date": "2026-03-18",
+          "author": "apache helicopter",
+          "stage": "question"
+        }
+      ],
+      "threads": [
+        {
+          "title": "zon manager linkedin response",
+          "messages": [
+            {
+              "content": "!process zon manager linkedin response",
+              "date": "2026-04-21",
+              "author": "kaliobamba"
+            }
+          ]
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-03-18",
+          "count": 2
+        },
+        {
+          "date": "2026-03-24",
+          "count": 7
+        },
+        {
+          "date": "2026-04-21",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Ramp",
+      "count": 38,
+      "stages": {
+        "offer": 3,
+        "rejection": 3,
+        "interview": 11,
+        "oa": 4,
+        "question": 17
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Optiver",
+      "count": 37,
+      "stages": {
+        "offer": 4,
+        "rejection": 0,
         "interview": 16,
-        "oa": 1,
-        "question": 19
+        "oa": 0,
+        "question": 17
       },
       "messages": [
         {
@@ -1699,14 +3020,258 @@
       ]
     },
     {
-      "name": "tiktok",
-      "count": 32,
+      "name": "Oracle",
+      "count": 36,
+      "stages": {
+        "offer": 3,
+        "rejection": 1,
+        "interview": 11,
+        "oa": 0,
+        "question": 21
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Snowflake",
+      "count": 33,
+      "stages": {
+        "offer": 2,
+        "rejection": 2,
+        "interview": 9,
+        "oa": 3,
+        "question": 17
+      },
+      "messages": [
+        {
+          "content": "!process how to push snowflake?",
+          "date": "2026-04-16",
+          "author": "LunaF\u00eate\u2728",
+          "stage": "question"
+        },
+        {
+          "content": "!process notion reject\n!process snowflake reject\n!process sentry reject",
+          "date": "2026-04-13",
+          "author": "railgunbiggestfanboy",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process how long does it take to hear back from snowflake after technicals",
+          "date": "2026-04-10",
+          "author": "yeachill",
+          "stage": "interview"
+        },
+        {
+          "content": "!process has anyone got the Snowflake GTM Apps Developer Intern",
+          "date": "2026-04-08",
+          "author": "Timmy",
+          "stage": "question"
+        },
+        {
+          "content": "!process has anyone done snowflake hm round ? what to expect ? is it all behavioral or there are some technical as well ?",
+          "date": "2026-04-04",
+          "author": "ABC",
+          "stage": "interview"
+        },
+        {
+          "content": "!process how long is the wait to get team matched for snowflake",
+          "date": "2026-04-02",
+          "author": "Aksgoatmonger123",
+          "stage": "interview"
+        },
+        {
+          "content": "!process how long to hear back after snowflake HM round",
+          "date": "2026-03-27",
+          "author": "manggo",
+          "stage": "question"
+        },
+        {
+          "content": "!process how long to hear back after snowflake hm round",
+          "date": "2026-03-26",
+          "author": "Aksgoatmonger123",
+          "stage": "question"
+        },
+        {
+          "content": "!process is anyone in snowflake fall proc?",
+          "date": "2026-03-24",
+          "author": "ash",
+          "stage": "question"
+        },
+        {
+          "content": "!process am I allowed to use python for snowflake core engineering ints?",
+          "date": "2026-03-23",
+          "author": "dangerousMite08",
+          "stage": "question"
+        },
+        {
+          "content": "!process snowflake technical round",
+          "date": "2026-03-23",
+          "author": "Hamza",
+          "stage": "interview"
+        },
+        {
+          "content": "!process snowflake hiring manager round",
+          "date": "2026-03-21",
+          "author": "ash",
+          "stage": "interview"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-21",
+          "count": 1
+        },
+        {
+          "date": "2026-03-23",
+          "count": 2
+        },
+        {
+          "date": "2026-03-24",
+          "count": 1
+        },
+        {
+          "date": "2026-03-26",
+          "count": 1
+        },
+        {
+          "date": "2026-03-27",
+          "count": 1
+        },
+        {
+          "date": "2026-04-02",
+          "count": 1
+        },
+        {
+          "date": "2026-04-04",
+          "count": 1
+        },
+        {
+          "date": "2026-04-08",
+          "count": 1
+        },
+        {
+          "date": "2026-04-10",
+          "count": 1
+        },
+        {
+          "date": "2026-04-13",
+          "count": 1
+        },
+        {
+          "date": "2026-04-16",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Two Sigma",
+      "count": 33,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 11,
+        "oa": 2,
+        "question": 19
+      },
+      "messages": [
+        {
+          "content": "!process two sigma r2",
+          "date": "2026-03-24",
+          "author": "ql3gruhkjaf",
+          "stage": "interview"
+        },
+        {
+          "content": "!process two sigma r1, dm if same boat / already past r1",
+          "date": "2026-03-22",
+          "author": "tris",
+          "stage": "interview"
+        },
+        {
+          "content": "!process Two Sigma SWE intern interview, round 1",
+          "date": "2026-03-20",
+          "author": "dookie416",
+          "stage": "interview"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-20",
+          "count": 1
+        },
+        {
+          "date": "2026-03-22",
+          "count": 1
+        },
+        {
+          "date": "2026-03-24",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "HRT",
+      "count": 31,
       "stages": {
         "offer": 0,
-        "rejection": 3,
+        "rejection": 0,
+        "interview": 15,
+        "oa": 2,
+        "question": 14
+      },
+      "messages": [
+        {
+          "content": "!process i havent heard back from explore hrt are we rejected",
+          "date": "2026-03-31",
+          "author": "sideblitz",
+          "stage": "rejection"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-31",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Intuit",
+      "count": 30,
+      "stages": {
+        "offer": 3,
+        "rejection": 0,
         "interview": 8,
-        "oa": 5,
-        "question": 16
+        "oa": 6,
+        "question": 13
+      },
+      "messages": [
+        {
+          "content": "!process intuit san diego offer, dm if you're also",
+          "date": "2026-03-23",
+          "author": "sushinoko",
+          "stage": "offer"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-23",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "TikTok",
+      "count": 29,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 4,
+        "oa": 6,
+        "question": 19
       },
       "messages": [
         {
@@ -1979,14 +3544,54 @@
       ]
     },
     {
-      "name": "palantir",
-      "count": 27,
+      "name": "Coinbase",
+      "count": 28,
       "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 16,
+        "offer": 2,
+        "rejection": 2,
+        "interview": 2,
         "oa": 1,
-        "question": 10
+        "question": 21
+      },
+      "messages": [
+        {
+          "content": "!process coinbase mle reject after final \ud83d\ude14",
+          "date": "2026-03-23",
+          "author": "Meher",
+          "stage": "rejection"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-23",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Ebay",
+      "count": 28,
+      "stages": {
+        "offer": 1,
+        "rejection": 3,
+        "interview": 8,
+        "oa": 2,
+        "question": 14
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Palantir",
+      "count": 28,
+      "stages": {
+        "offer": 2,
+        "rejection": 3,
+        "interview": 3,
+        "oa": 1,
+        "question": 19
       },
       "messages": [
         {
@@ -2264,154 +3869,594 @@
       ]
     },
     {
-      "name": "apple",
-      "count": 20,
+      "name": "HubSpot",
+      "count": 27,
       "stages": {
         "offer": 1,
         "rejection": 0,
-        "interview": 5,
-        "oa": 0,
+        "interview": 2,
+        "oa": 6,
+        "question": 18
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Airbnb",
+      "count": 25,
+      "stages": {
+        "offer": 0,
+        "rejection": 1,
+        "interview": 6,
+        "oa": 4,
         "question": 14
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Cloudflare",
+      "count": 25,
+      "stages": {
+        "offer": 6,
+        "rejection": 0,
+        "interview": 6,
+        "oa": 0,
+        "question": 13
       },
       "messages": [
         {
-          "content": "!process apple health team int, pls helpme  much appraciate!",
-          "date": "2026-04-18",
-          "author": "free_to_play",
+          "content": "!process cloudflare threat detection summer 2026",
+          "date": "2026-04-21",
+          "author": "Joey Kaji",
           "stage": "question"
         },
         {
-          "content": "!process has anyone interviewed with apple ads intern?",
-          "date": "2026-04-17",
-          "author": "teiko",
-          "stage": "interview"
-        },
-        {
-          "content": "!process Apple Health Team int, pls dm if you have done! much thanks",
+          "content": "!process Cloudflare team matching round, anyone know how it works?",
           "date": "2026-04-15",
-          "author": "free_to_play",
-          "stage": "question"
+          "author": "Mogdawg",
+          "stage": "interview"
         },
         {
-          "content": "!process apple Siri Dm me (for my friend)",
+          "content": "!process cloudflare Team matching round",
           "date": "2026-04-13",
-          "author": "Ronit",
-          "stage": "question"
-        },
-        {
-          "content": "!process apple pray \ud83d\ude4f",
-          "date": "2026-04-12",
-          "author": "Ronit",
-          "stage": "question"
-        },
-        {
-          "content": "!process apple recruiter reached out -",
-          "date": "2026-04-10",
-          "author": "jonesy2092",
+          "author": "LemonGrassChicken",
           "stage": "interview"
         },
         {
-          "content": "!process apple pray day 1, zon pray 1",
-          "date": "2026-04-05",
-          "author": "Ronit",
-          "stage": "question"
-        },
-        {
-          "content": "!process apple ml offer for <@1288526661557420055> dm him for advice",
-          "date": "2026-04-03",
-          "author": "twohundredsonly",
-          "stage": "question"
-        },
-        {
-          "content": "!process has anyone been able to push apple fall",
-          "date": "2026-04-03",
-          "author": "ok1234____",
-          "stage": "question"
-        },
-        {
-          "content": "!process Apple 30min b2b what to expect dm please (Apple Ads Business Insights)",
-          "date": "2026-04-01",
-          "author": "m3pnhb3k",
-          "stage": "question"
-        },
-        {
-          "content": "!process apple siri ( recruiter not replyong ) { for my friend }",
-          "date": "2026-04-01",
-          "author": "Ronit",
-          "stage": "question"
-        },
-        {
-          "content": "!process Apple, does anyone know how many days after they typically send rej/offer?",
-          "date": "2026-03-27",
-          "author": "xedra",
+          "content": "!process Cloudflare Security Engineer Intern interview",
+          "date": "2026-04-02",
+          "author": "cmcTfg203",
           "stage": "interview"
         },
         {
-          "content": "!process apple Cupertino apple ads engineering proc r1 anyone? (dm if done)",
-          "date": "2026-03-27",
-          "author": "Ago",
-          "stage": "interview"
-        },
-        {
-          "content": "!process apple wallet nyc offer",
-          "date": "2026-03-25",
-          "author": "Hot Shahcolate\u2122",
-          "stage": "offer"
-        },
-        {
-          "content": "!process apple pay",
-          "date": "2026-03-24",
-          "author": "eog",
-          "stage": "question"
-        },
-        {
-          "content": "!process apple (for my friend)  what to",
-          "date": "2026-03-23",
-          "author": "sushi",
-          "stage": "question"
-        },
-        {
-          "content": "!process is anyone interviewing apple ads dm",
-          "date": "2026-03-23",
-          "author": "ok1234____",
-          "stage": "interview"
-        },
-        {
-          "content": "!process Apple swe",
+          "content": "!process finally signed cloudflare offer <:kirbywow:869031817150365737>",
           "date": "2026-03-20",
-          "author": "xedra",
+          "author": "KingPing67",
+          "stage": "offer"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-20",
+          "count": 1
+        },
+        {
+          "date": "2026-04-02",
+          "count": 1
+        },
+        {
+          "date": "2026-04-13",
+          "count": 1
+        },
+        {
+          "date": "2026-04-15",
+          "count": 1
+        },
+        {
+          "date": "2026-04-21",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Meta",
+      "count": 25,
+      "stages": {
+        "offer": 3,
+        "rejection": 1,
+        "interview": 2,
+        "oa": 0,
+        "question": 19
+      },
+      "messages": [
+        {
+          "content": "!process if anyone is doing a Research Internship at Meta this summer, hmu lets connect!",
+          "date": "2026-03-22",
+          "author": "dhan",
           "stage": "question"
         },
         {
-          "content": "!process fuck apple",
-          "date": "2026-03-18",
-          "author": "Thutoy",
+          "content": "!process when is meta team match released",
+          "date": "2026-03-19",
+          "author": "killooa",
+          "stage": "question"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-19",
+          "count": 1
+        },
+        {
+          "date": "2026-03-22",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Jane Street",
+      "count": 24,
+      "stages": {
+        "offer": 0,
+        "rejection": 1,
+        "interview": 7,
+        "oa": 0,
+        "question": 16
+      },
+      "messages": [
+        {
+          "content": "!process jane street swe r1 2027 (dm",
+          "date": "2026-04-23",
+          "author": "yeema",
+          "stage": "interview"
+        },
+        {
+          "content": "!process jane street swe (Dm)",
+          "date": "2026-04-22",
+          "author": "\ud83d\ude07",
           "stage": "question"
         },
         {
-          "content": "!process does Apple do fall internship?",
-          "date": "2026-03-18",
-          "author": "Reflex",
+          "content": "!process jane street blacklist",
+          "date": "2026-04-22",
+          "author": "railgunbiggestfanboy",
+          "stage": "question"
+        },
+        {
+          "content": "!process jane street swe (Dm)",
+          "date": "2026-04-22",
+          "author": "mkw",
+          "stage": "question"
+        },
+        {
+          "content": "!process jane street swe r1 2027 (dm)",
+          "date": "2026-04-22",
+          "author": "kite",
+          "stage": "interview"
+        },
+        {
+          "content": "!process jane street swe (Dm)",
+          "date": "2026-04-22",
+          "author": "dankalt3",
+          "stage": "question"
+        },
+        {
+          "content": "!process jane street swe (Dm)",
+          "date": "2026-04-22",
+          "author": "allarkvarkk",
+          "stage": "question"
+        },
+        {
+          "content": "!process jane street swe (Dm)",
+          "date": "2026-04-22",
+          "author": "Raemelia",
+          "stage": "question"
+        },
+        {
+          "content": "!process jane street swe (Dm)",
+          "date": "2026-04-22",
+          "author": "Maxony",
           "stage": "question"
         }
       ],
       "threads": [
         {
-          "title": "apple swe intern r1 (does apple",
+          "title": "jane street swe (Dm)",
           "messages": [
             {
-              "content": "Alr thats a different process",
-              "date": "2026-03-21",
-              "author": "Enes"
+              "content": "!process jane street swe (Dm)",
+              "date": "2026-04-22",
+              "author": "james1928"
             }
           ]
         }
       ],
       "daily": [
         {
-          "date": "2026-03-18",
-          "count": 2
+          "date": "2026-04-22",
+          "count": 8
         },
+        {
+          "date": "2026-04-23",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Dropbox",
+      "count": 23,
+      "stages": {
+        "offer": 0,
+        "rejection": 1,
+        "interview": 4,
+        "oa": 6,
+        "question": 12
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "GitHub",
+      "count": 21,
+      "stages": {
+        "offer": 3,
+        "rejection": 0,
+        "interview": 7,
+        "oa": 0,
+        "question": 11
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Goldman Sachs",
+      "count": 21,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 6,
+        "question": 14
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "SIG",
+      "count": 21,
+      "stages": {
+        "offer": 3,
+        "rejection": 0,
+        "interview": 7,
+        "oa": 0,
+        "question": 11
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Cisco",
+      "count": 19,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 9,
+        "oa": 0,
+        "question": 10
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "SoFi",
+      "count": 19,
+      "stages": {
+        "offer": 2,
+        "rejection": 3,
+        "interview": 1,
+        "oa": 1,
+        "question": 12
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Expedia",
+      "count": 18,
+      "stages": {
+        "offer": 2,
+        "rejection": 1,
+        "interview": 11,
+        "oa": 1,
+        "question": 3
+      },
+      "messages": [
+        {
+          "content": "!process expedia final round",
+          "date": "2026-04-17",
+          "author": "vicksey",
+          "stage": "question"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-04-17",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Geico",
+      "count": 18,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 6,
+        "oa": 1,
+        "question": 10
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "PayPal",
+      "count": 18,
+      "stages": {
+        "offer": 3,
+        "rejection": 0,
+        "interview": 5,
+        "oa": 3,
+        "question": 7
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "MathWorks",
+      "count": 17,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 4,
+        "oa": 1,
+        "question": 12
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Rivian",
+      "count": 17,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 7,
+        "oa": 0,
+        "question": 9
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "AMD",
+      "count": 15,
+      "stages": {
+        "offer": 2,
+        "rejection": 0,
+        "interview": 3,
+        "oa": 0,
+        "question": 10
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Okta",
+      "count": 15,
+      "stages": {
+        "offer": 0,
+        "rejection": 1,
+        "interview": 3,
+        "oa": 4,
+        "question": 7
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Pinterest",
+      "count": 15,
+      "stages": {
+        "offer": 1,
+        "rejection": 1,
+        "interview": 1,
+        "oa": 2,
+        "question": 10
+      },
+      "messages": [
+        {
+          "content": "!process what lc questions does Pinterest ask in technical",
+          "date": "2026-04-28",
+          "author": "Cheezecake",
+          "stage": "interview"
+        },
+        {
+          "content": "!process pinterest, has anyone done proc",
+          "date": "2026-04-24",
+          "author": "obitou26",
+          "stage": "question"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-04-24",
+          "count": 1
+        },
+        {
+          "date": "2026-04-28",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Shopify",
+      "count": 15,
+      "stages": {
+        "offer": 3,
+        "rejection": 3,
+        "interview": 0,
+        "oa": 1,
+        "question": 8
+      },
+      "messages": [
+        {
+          "content": "!process can i apply to shopify internships if im a new grad?",
+          "date": "2026-04-27",
+          "author": "R",
+          "stage": "question"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-04-27",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "AT&T",
+      "count": 14,
+      "stages": {
+        "offer": 3,
+        "rejection": 0,
+        "interview": 6,
+        "oa": 1,
+        "question": 4
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Docusign",
+      "count": 14,
+      "stages": {
+        "offer": 2,
+        "rejection": 0,
+        "interview": 3,
+        "oa": 0,
+        "question": 9
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Snapchat",
+      "count": 14,
+      "stages": {
+        "offer": 3,
+        "rejection": 1,
+        "interview": 4,
+        "oa": 0,
+        "question": 6
+      },
+      "messages": [
+        {
+          "content": "!process completed snap interview",
+          "date": "2026-03-19",
+          "author": "playp.",
+          "stage": "interview"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-19",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Together AI",
+      "count": 14,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 2,
+        "oa": 2,
+        "question": 10
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Zoox",
+      "count": 14,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 5,
+        "oa": 1,
+        "question": 7
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Akuna",
+      "count": 13,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 3,
+        "question": 9
+      },
+      "messages": [
+        {
+          "content": "!process akuna capital swe intern",
+          "date": "2026-03-23",
+          "author": "adem",
+          "stage": "question"
+        },
+        {
+          "content": "!process akuna oa 2",
+          "date": "2026-03-23",
+          "author": "Harass The World",
+          "stage": "oa"
+        },
+        {
+          "content": "!process akuna capital swe intern",
+          "date": "2026-03-20",
+          "author": "s",
+          "stage": "question"
+        }
+      ],
+      "threads": [],
+      "daily": [
         {
           "date": "2026-03-20",
           "count": 1
@@ -2419,405 +4464,39 @@
         {
           "date": "2026-03-23",
           "count": 2
-        },
-        {
-          "date": "2026-03-24",
-          "count": 1
-        },
-        {
-          "date": "2026-03-25",
-          "count": 1
-        },
-        {
-          "date": "2026-03-27",
-          "count": 2
-        },
-        {
-          "date": "2026-04-01",
-          "count": 2
-        },
-        {
-          "date": "2026-04-03",
-          "count": 2
-        },
-        {
-          "date": "2026-04-05",
-          "count": 1
-        },
-        {
-          "date": "2026-04-10",
-          "count": 1
-        },
-        {
-          "date": "2026-04-12",
-          "count": 1
-        },
-        {
-          "date": "2026-04-13",
-          "count": 1
-        },
-        {
-          "date": "2026-04-15",
-          "count": 1
-        },
-        {
-          "date": "2026-04-17",
-          "count": 1
-        },
-        {
-          "date": "2026-04-18",
-          "count": 1
         }
       ]
     },
     {
-      "name": "openai",
-      "count": 17,
+      "name": "Harvey",
+      "count": 13,
       "stages": {
-        "offer": 3,
-        "rejection": 3,
-        "interview": 5,
-        "oa": 0,
-        "question": 6
-      },
-      "messages": [
-        {
-          "content": "!process openai fall offer",
-          "date": "2026-04-29",
-          "author": "twohundredsonly",
-          "stage": "offer"
-        },
-        {
-          "content": "!process openai fall reject <24h after",
-          "date": "2026-04-27",
-          "author": "min",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process anyone else get an interesting email from openai (edit: not an offer)",
-          "date": "2026-04-22",
-          "author": "venusmercury",
-          "stage": "question"
-        },
-        {
-          "content": "!process optiver/openai full question bank 2027",
-          "date": "2026-04-22",
-          "author": "kevin quo zhao",
-          "stage": "question"
-        },
-        {
-          "content": "!process does oai push crudSWE to fall 2027?",
-          "date": "2026-04-19",
-          "author": "been",
-          "stage": "question"
-        },
-        {
-          "content": "!process openai fall offer",
-          "date": "2026-04-07",
-          "author": "Polkas D",
-          "stage": "offer"
-        },
-        {
-          "content": "!process openai forgot about me... final 10+ days ago then ghosted",
-          "date": "2026-04-06",
-          "author": "venusmercury",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process openai fall offer",
-          "date": "2026-04-05",
-          "author": "Dark",
-          "stage": "offer"
-        },
-        {
-          "content": "!process openai emt r1",
-          "date": "2026-04-04",
-          "author": "cool sidd",
-          "stage": "interview"
-        },
-        {
-          "content": "!process openai final last wednesday, did not hear back yet and behavioural was mid, am i cooked?",
-          "date": "2026-03-31",
-          "author": "venusmercury",
-          "stage": "question"
-        },
-        {
-          "content": "!process openai fall r1 anyone scheduled",
-          "date": "2026-03-30",
-          "author": "pedri",
-          "stage": "interview"
-        },
-        {
-          "content": "!process OpenAI",
-          "date": "2026-03-29",
-          "author": "yellow213342",
-          "stage": "question"
-        },
-        {
-          "content": "!process openai tech went well and behavioural went ok am i cooked?",
-          "date": "2026-03-26",
-          "author": "venusmercury",
-          "stage": "question"
-        },
-        {
-          "content": "!process openai fall reject after",
-          "date": "2026-03-26",
-          "author": "AlexWala",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process openai r1",
-          "date": "2026-03-22",
-          "author": "inf.inite",
-          "stage": "interview"
-        },
-        {
-          "content": "!process anyone have openai swe intern final round today/recently?",
-          "date": "2026-03-21",
-          "author": "a",
-          "stage": "interview"
-        },
-        {
-          "content": "!process openai r1 (dm to trade i have",
-          "date": "2026-03-20",
-          "author": "livvy",
-          "stage": "interview"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-20",
-          "count": 1
-        },
-        {
-          "date": "2026-03-21",
-          "count": 1
-        },
-        {
-          "date": "2026-03-22",
-          "count": 1
-        },
-        {
-          "date": "2026-03-26",
-          "count": 2
-        },
-        {
-          "date": "2026-03-29",
-          "count": 1
-        },
-        {
-          "date": "2026-03-30",
-          "count": 1
-        },
-        {
-          "date": "2026-03-31",
-          "count": 1
-        },
-        {
-          "date": "2026-04-04",
-          "count": 1
-        },
-        {
-          "date": "2026-04-05",
-          "count": 1
-        },
-        {
-          "date": "2026-04-06",
-          "count": 1
-        },
-        {
-          "date": "2026-04-07",
-          "count": 1
-        },
-        {
-          "date": "2026-04-19",
-          "count": 1
-        },
-        {
-          "date": "2026-04-22",
-          "count": 2
-        },
-        {
-          "date": "2026-04-27",
-          "count": 1
-        },
-        {
-          "date": "2026-04-29",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "nvidia",
-      "count": 16,
-      "stages": {
-        "offer": 3,
+        "offer": 1,
         "rejection": 1,
         "interview": 4,
         "oa": 0,
-        "question": 8
+        "question": 7
       },
-      "messages": [
-        {
-          "content": "!process nvidia fall",
-          "date": "2026-04-27",
-          "author": "dotjackal",
-          "stage": "question"
-        },
-        {
-          "content": "!process NVIDIA MLE offer",
-          "date": "2026-04-16",
-          "author": "Iron",
-          "stage": "offer"
-        },
-        {
-          "content": "!process nvidia offer",
-          "date": "2026-04-10",
-          "author": "aidan",
-          "stage": "offer"
-        },
-        {
-          "content": "!process nvidia offer in my head",
-          "date": "2026-04-08",
-          "author": "dyldo",
-          "stage": "offer"
-        },
-        {
-          "content": "!process nvidia interview finished, prayers in progress",
-          "date": "2026-04-07",
-          "author": "dyldo",
-          "stage": "interview"
-        },
-        {
-          "content": "!process nvidia rej",
-          "date": "2026-04-06",
-          "author": "Dork",
-          "stage": "question"
-        },
-        {
-          "content": "!process nvidia prayer day 30 \ud83d\ude4f",
-          "date": "2026-04-02",
-          "author": "techthief25",
-          "stage": "question"
-        },
-        {
-          "content": "!process nvidia round 2",
-          "date": "2026-04-01",
-          "author": "techthief25",
-          "stage": "interview"
-        },
-        {
-          "content": "!process nvidia prayer day 29",
-          "date": "2026-04-01",
-          "author": "techthief25",
-          "stage": "question"
-        },
-        {
-          "content": "!process nvidia prayer day 28",
-          "date": "2026-03-31",
-          "author": "techthief25",
-          "stage": "question"
-        },
-        {
-          "content": "!process Nvidia shafted me for devtech holy",
-          "date": "2026-03-31",
-          "author": "beli",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process nvidia please",
-          "date": "2026-03-30",
-          "author": "techthief25",
-          "stage": "question"
-        },
-        {
-          "content": "!process nvidia math libraries anyone?",
-          "date": "2026-03-27",
-          "author": "ajd9",
-          "stage": "question"
-        },
-        {
-          "content": "!process Nvidia Performance Software Engineer Intern, Tensor RT anyone else got??",
-          "date": "2026-03-25",
-          "author": "Ninja",
-          "stage": "question"
-        },
-        {
-          "content": "!process what to expect for NVIDIA GPU server SWE Intern interview? would the interview emphasize software, cpu  hardware/arch, or gpu  hardware/arch?",
-          "date": "2026-03-19",
-          "author": "large",
-          "stage": "interview"
-        },
-        {
-          "content": "!process what to expect for NVIDIA GPU server SWE Intern interview? would the interview emphasize software, cpu  hardware/arch, or gpu  hardware/arch?",
-          "date": "2026-03-18",
-          "author": "large",
-          "stage": "interview"
-        }
-      ],
+      "messages": [],
       "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-18",
-          "count": 1
-        },
-        {
-          "date": "2026-03-19",
-          "count": 1
-        },
-        {
-          "date": "2026-03-25",
-          "count": 1
-        },
-        {
-          "date": "2026-03-27",
-          "count": 1
-        },
-        {
-          "date": "2026-03-30",
-          "count": 1
-        },
-        {
-          "date": "2026-03-31",
-          "count": 2
-        },
-        {
-          "date": "2026-04-01",
-          "count": 2
-        },
-        {
-          "date": "2026-04-02",
-          "count": 1
-        },
-        {
-          "date": "2026-04-06",
-          "count": 1
-        },
-        {
-          "date": "2026-04-07",
-          "count": 1
-        },
-        {
-          "date": "2026-04-08",
-          "count": 1
-        },
-        {
-          "date": "2026-04-10",
-          "count": 1
-        },
-        {
-          "date": "2026-04-16",
-          "count": 1
-        },
-        {
-          "date": "2026-04-27",
-          "count": 1
-        }
-      ]
+      "daily": []
     },
     {
-      "name": "notion",
+      "name": "IMC",
+      "count": 13,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 2,
+        "oa": 3,
+        "question": 8
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Notion",
       "count": 13,
       "stages": {
         "offer": 0,
@@ -2962,845 +4641,905 @@
       ]
     },
     {
-      "name": "visa",
+      "name": "Qualcomm",
       "count": 13,
-      "stages": {
-        "offer": 2,
-        "rejection": 0,
-        "interview": 6,
-        "oa": 0,
-        "question": 5
-      },
-      "messages": [
-        {
-          "content": "!process visa offer !",
-          "date": "2026-03-24",
-          "author": "scripzy",
-          "stage": "offer"
-        },
-        {
-          "content": "!process Visa",
-          "date": "2026-03-24",
-          "author": "UniqueUsername",
-          "stage": "question"
-        },
-        {
-          "content": "!process visa final how is it",
-          "date": "2026-03-24",
-          "author": "BakedBeans",
-          "stage": "question"
-        },
-        {
-          "content": "!process anyone have a OOD design / design problem for visa swe intern interview (technical section)?",
-          "date": "2026-03-23",
-          "author": "wenk",
-          "stage": "interview"
-        },
-        {
-          "content": "!process visa final, how hard are tech",
-          "date": "2026-03-23",
-          "author": "madao",
-          "stage": "question"
-        },
-        {
-          "content": "!process visa swe intern final round, recruiter says that technical section is either leetcode or system design, and that it would be like the visa swe OA. Thing is, on the OA there was one system designy question which was easy asf, just had to use a 1d array if I remember corre",
-          "date": "2026-03-20",
-          "author": "wenk",
-          "stage": "interview"
-        },
-        {
-          "content": "!process visa swe offer foster city",
-          "date": "2026-03-20",
-          "author": "madao",
-          "stage": "offer"
-        },
-        {
-          "content": "!process advice for visa swe intern final?",
-          "date": "2026-03-20",
-          "author": "ferraroe",
-          "stage": "question"
-        },
-        {
-          "content": "!process interviewed with visa hiring",
-          "date": "2026-03-19",
-          "author": "madao",
-          "stage": "interview"
-        },
-        {
-          "content": "!process visa interview done",
-          "date": "2026-03-18",
-          "author": "scripzy",
-          "stage": "interview"
-        },
-        {
-          "content": "!process how long for visa interview after questionnaire?",
-          "date": "2026-03-18",
-          "author": "dhanboss",
-          "stage": "interview"
-        },
-        {
-          "content": "!process visa final (how long does it",
-          "date": "2026-03-18",
-          "author": "buzzlightyear",
-          "stage": "question"
-        },
-        {
-          "content": "!process Visa interview",
-          "date": "2026-03-18",
-          "author": "Connor",
-          "stage": "interview"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-18",
-          "count": 4
-        },
-        {
-          "date": "2026-03-19",
-          "count": 1
-        },
-        {
-          "date": "2026-03-20",
-          "count": 3
-        },
-        {
-          "date": "2026-03-23",
-          "count": 2
-        },
-        {
-          "date": "2026-03-24",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "name": "snowflake",
-      "count": 12,
-      "stages": {
-        "offer": 0,
-        "rejection": 1,
-        "interview": 5,
-        "oa": 0,
-        "question": 6
-      },
-      "messages": [
-        {
-          "content": "!process how to push snowflake?",
-          "date": "2026-04-16",
-          "author": "LunaF\u00eate\u2728",
-          "stage": "question"
-        },
-        {
-          "content": "!process notion reject\n!process snowflake reject\n!process sentry reject",
-          "date": "2026-04-13",
-          "author": "railgunbiggestfanboy",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process how long does it take to hear back from snowflake after technicals",
-          "date": "2026-04-10",
-          "author": "yeachill",
-          "stage": "interview"
-        },
-        {
-          "content": "!process has anyone got the Snowflake GTM Apps Developer Intern",
-          "date": "2026-04-08",
-          "author": "Timmy",
-          "stage": "question"
-        },
-        {
-          "content": "!process has anyone done snowflake hm round ? what to expect ? is it all behavioral or there are some technical as well ?",
-          "date": "2026-04-04",
-          "author": "ABC",
-          "stage": "interview"
-        },
-        {
-          "content": "!process how long is the wait to get team matched for snowflake",
-          "date": "2026-04-02",
-          "author": "Aksgoatmonger123",
-          "stage": "interview"
-        },
-        {
-          "content": "!process how long to hear back after snowflake HM round",
-          "date": "2026-03-27",
-          "author": "manggo",
-          "stage": "question"
-        },
-        {
-          "content": "!process how long to hear back after snowflake hm round",
-          "date": "2026-03-26",
-          "author": "Aksgoatmonger123",
-          "stage": "question"
-        },
-        {
-          "content": "!process is anyone in snowflake fall proc?",
-          "date": "2026-03-24",
-          "author": "ash",
-          "stage": "question"
-        },
-        {
-          "content": "!process am I allowed to use python for snowflake core engineering ints?",
-          "date": "2026-03-23",
-          "author": "dangerousMite08",
-          "stage": "question"
-        },
-        {
-          "content": "!process snowflake technical round",
-          "date": "2026-03-23",
-          "author": "Hamza",
-          "stage": "interview"
-        },
-        {
-          "content": "!process snowflake hiring manager round",
-          "date": "2026-03-21",
-          "author": "ash",
-          "stage": "interview"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-21",
-          "count": 1
-        },
-        {
-          "date": "2026-03-23",
-          "count": 2
-        },
-        {
-          "date": "2026-03-24",
-          "count": 1
-        },
-        {
-          "date": "2026-03-26",
-          "count": 1
-        },
-        {
-          "date": "2026-03-27",
-          "count": 1
-        },
-        {
-          "date": "2026-04-02",
-          "count": 1
-        },
-        {
-          "date": "2026-04-04",
-          "count": 1
-        },
-        {
-          "date": "2026-04-08",
-          "count": 1
-        },
-        {
-          "date": "2026-04-10",
-          "count": 1
-        },
-        {
-          "date": "2026-04-13",
-          "count": 1
-        },
-        {
-          "date": "2026-04-16",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "tesla",
-      "count": 12,
       "stages": {
         "offer": 1,
         "rejection": 0,
-        "interview": 7,
+        "interview": 6,
         "oa": 0,
+        "question": 6
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Roblox",
+      "count": 13,
+      "stages": {
+        "offer": 3,
+        "rejection": 1,
+        "interview": 2,
+        "oa": 0,
+        "question": 7
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Gemini",
+      "count": 12,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 5,
+        "oa": 0,
+        "question": 7
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "SpaceX",
+      "count": 12,
+      "stages": {
+        "offer": 4,
+        "rejection": 1,
+        "interview": 2,
+        "oa": 1,
         "question": 4
       },
       "messages": [
         {
-          "content": "!process pm me if u did **tesla ai eng intern proc ** or **tesla ap proc**",
-          "date": "2026-04-28",
-          "author": "vtibuyer",
-          "stage": "question"
-        },
-        {
-          "content": "!process tweaking abt r2 Tesla fall",
-          "date": "2026-04-25",
-          "author": "RAGBOB",
-          "stage": "interview"
-        },
-        {
-          "content": "!process tesla intv tmrw might be fried help me out any way interviewer is some ml dude",
-          "date": "2026-04-24",
-          "author": "kite",
-          "stage": "interview"
-        },
-        {
-          "content": "!process PM ME IF U INTERVIEWED TESLA",
-          "date": "2026-04-24",
-          "author": "Spade",
-          "stage": "interview"
-        },
-        {
-          "content": "!process tesla autopilot ml",
-          "date": "2026-04-23",
-          "author": "vtibuyer",
-          "stage": "question"
-        },
-        {
-          "content": "!process tesla autopilot interview (PM)",
-          "date": "2026-04-22",
-          "author": "vtibuyer",
-          "stage": "interview"
-        },
-        {
-          "content": "!process tesla fall offer",
-          "date": "2026-04-22",
-          "author": "rglarp",
-          "stage": "offer"
-        },
-        {
-          "content": "!process tesla update systems r2 (any info)?",
-          "date": "2026-04-20",
+          "content": "!process spacex takehome (any info)?",
+          "date": "2026-04-29",
           "author": "Please give me MAANG",
-          "stage": "interview"
-        },
-        {
-          "content": "!process anyone interviewing Tesla IT App team?",
-          "date": "2026-03-23",
-          "author": "Wt.nb",
-          "stage": "interview"
-        },
-        {
-          "content": "!process tesla data engineer energy",
-          "date": "2026-03-21",
-          "author": "Timmy",
-          "stage": "question"
-        },
-        {
-          "content": "!process SRE intern at Tesla. Anyone who",
-          "date": "2026-03-20",
-          "author": "Pizza",
-          "stage": "question"
-        },
-        {
-          "content": "!process tesla interview ai swe infra",
-          "date": "2026-03-19",
-          "author": "Bhadroro",
-          "stage": "interview"
-        }
-      ],
-      "threads": [
-        {
-          "title": "tesla interview",
-          "messages": [
-            {
-              "content": "Also in process\nPls dm",
-              "date": "2026-03-23",
-              "author": "Ta733"
-            }
-          ]
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-03-19",
-          "count": 1
-        },
-        {
-          "date": "2026-03-20",
-          "count": 1
-        },
-        {
-          "date": "2026-03-21",
-          "count": 1
-        },
-        {
-          "date": "2026-03-23",
-          "count": 1
-        },
-        {
-          "date": "2026-04-20",
-          "count": 1
-        },
-        {
-          "date": "2026-04-22",
-          "count": 2
-        },
-        {
-          "date": "2026-04-23",
-          "count": 1
-        },
-        {
-          "date": "2026-04-24",
-          "count": 2
-        },
-        {
-          "date": "2026-04-25",
-          "count": 1
-        },
-        {
-          "date": "2026-04-28",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "citadel",
-      "count": 11,
-      "stages": {
-        "offer": 1,
-        "rejection": 1,
-        "interview": 2,
-        "oa": 1,
-        "question": 6
-      },
-      "messages": [
-        {
-          "content": "!process reach out from citadel's",
-          "date": "2026-04-21",
-          "author": "yeema",
-          "stage": "question"
-        },
-        {
-          "content": "!process applied citadel launch in march, aced oa, got fast tracked to 2nd round a week ago, interviewed on monday no response yet. how long does citadel take to get back?",
-          "date": "2026-04-16",
-          "author": "david",
           "stage": "oa"
         },
         {
-          "content": "!process citadel quant research anaylst r1",
-          "date": "2026-04-06",
-          "author": "ok-bus-23229",
+          "content": "!process spacex fall swe R1 what to expect dm?",
+          "date": "2026-04-28",
+          "author": "m3pnhb3k",
           "stage": "interview"
         },
         {
-          "content": "!process citadel qr first round what to expect?",
-          "date": "2026-04-03",
-          "author": "NamanG0yal",
-          "stage": "question"
-        },
-        {
-          "content": "!process anyone willing to share citadel swe interview questions?",
-          "date": "2026-03-30",
-          "author": "jerrywantsjob",
+          "content": "!process spacex starship fall r1",
+          "date": "2026-04-28",
+          "author": "banani",
           "stage": "interview"
         },
         {
-          "content": "!process citadel swe  intern",
-          "date": "2026-03-30",
-          "author": "Hamzy",
-          "stage": "question"
-        },
-        {
-          "content": "!process Citadel",
-          "date": "2026-03-29",
-          "author": "NamanG0yal",
-          "stage": "question"
-        },
-        {
-          "content": "!process jane street reject\n!process citadel superday\n!process qrt r2 (no idea what to expect, pls dm)",
-          "date": "2026-03-24",
-          "author": "kolaf",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process Citadel offer",
-          "date": "2026-03-23",
-          "author": "sonic",
-          "stage": "offer"
-        },
-        {
-          "content": "!process citadel ghost for a month after leadership",
-          "date": "2026-03-23",
-          "author": "raph",
-          "stage": "question"
-        },
-        {
-          "content": "!process citadel qr analyst intern",
-          "date": "2026-03-22",
-          "author": "NamanG0yal",
-          "stage": "question"
+          "content": "!process spacex 26 summer interview, can I ask to interview later for fall have finals these two weeks\u2026. ?",
+          "date": "2026-04-22",
+          "author": "TheGrindNeverStops!",
+          "stage": "interview"
         }
       ],
-      "threads": [
-        {
-          "title": "reach out from citadel's",
-          "messages": [
-            {
-              "content": "!process reach out from citadel's insecurities, pdt's partners, and monthly HRT prescriptions? what is this?",
-              "date": "2026-04-21",
-              "author": "Mitochondria"
-            }
-          ]
-        }
-      ],
+      "threads": [],
       "daily": [
         {
-          "date": "2026-03-22",
+          "date": "2026-04-22",
           "count": 1
         },
         {
-          "date": "2026-03-23",
+          "date": "2026-04-28",
           "count": 2
         },
         {
-          "date": "2026-03-24",
-          "count": 1
-        },
-        {
-          "date": "2026-03-29",
-          "count": 1
-        },
-        {
-          "date": "2026-03-30",
-          "count": 2
-        },
-        {
-          "date": "2026-04-03",
-          "count": 1
-        },
-        {
-          "date": "2026-04-06",
-          "count": 1
-        },
-        {
-          "date": "2026-04-16",
-          "count": 1
-        },
-        {
-          "date": "2026-04-21",
+          "date": "2026-04-29",
           "count": 1
         }
       ]
     },
     {
-      "name": "linkedin",
-      "count": 10,
+      "name": "Aurora",
+      "count": 11,
       "stages": {
         "offer": 0,
-        "rejection": 7,
+        "rejection": 0,
         "interview": 1,
         "oa": 0,
-        "question": 2
+        "question": 10
       },
-      "messages": [
-        {
-          "content": "!process amazon how to get linkedin animation",
-          "date": "2026-04-21",
-          "author": "allarkvarkk",
-          "stage": "question"
-        },
-        {
-          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
-          "date": "2026-03-24",
-          "author": "yellow213342",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
-          "date": "2026-03-24",
-          "author": "railgunbiggestfanboy",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
-          "date": "2026-03-24",
-          "author": "glizzy god",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
-          "date": "2026-03-24",
-          "author": "_hi_",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
-          "date": "2026-03-24",
-          "author": "RAGBOB",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process actually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just sile",
-          "date": "2026-03-24",
-          "author": "MikeandIkes",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process -\nactually over. it\u2019s completely cooked. i\u2019m sitting here refreshing my inbox like a rat in a skinner box waiting for a pellet that isn\u2019t coming. 0 reachouts. zero. i send applications into the void and the void doesn\u2019t even bother to send an auto-reject anymore. just si",
-          "date": "2026-03-24",
-          "author": "Ablog",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process recruiter at strava viewed my LinkedIn twice, but no interview yet<:sadge:747169038911930418>",
-          "date": "2026-03-18",
-          "author": "row",
-          "stage": "interview"
-        },
-        {
-          "content": "!process does linkedin do fall intern?",
-          "date": "2026-03-18",
-          "author": "apache helicopter",
-          "stage": "question"
-        }
-      ],
-      "threads": [
-        {
-          "title": "zon manager linkedin response",
-          "messages": [
-            {
-              "content": "!process zon manager linkedin response",
-              "date": "2026-04-21",
-              "author": "kaliobamba"
-            }
-          ]
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-03-18",
-          "count": 2
-        },
-        {
-          "date": "2026-03-24",
-          "count": 7
-        },
-        {
-          "date": "2026-04-21",
-          "count": 1
-        }
-      ]
+      "messages": [],
+      "threads": [],
+      "daily": []
     },
     {
-      "name": "capital one",
-      "count": 9,
+      "name": "Pure Storage",
+      "count": 11,
       "stages": {
-        "offer": 1,
-        "rejection": 3,
+        "offer": 0,
+        "rejection": 1,
         "interview": 0,
+        "oa": 4,
+        "question": 6
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Wells Fargo",
+      "count": 11,
+      "stages": {
+        "offer": 5,
+        "rejection": 0,
+        "interview": 1,
         "oa": 0,
         "question": 5
       },
-      "messages": [
-        {
-          "content": "!process should i finally renege C1 for",
-          "date": "2026-04-24",
-          "author": "Zlin_Eleven",
-          "stage": "question"
-        },
-        {
-          "content": "!process capital one reachout wtf",
-          "date": "2026-04-22",
-          "author": "must",
-          "stage": "question"
-        },
-        {
-          "content": "!process c1 welcome day food (thank you",
-          "date": "2026-03-27",
-          "author": "fer",
-          "stage": "question"
-        },
-        {
-          "content": "!process c1 (lounge) exploding offer after waitlist",
-          "date": "2026-03-25",
-          "author": "Charlie",
-          "stage": "question"
-        },
-        {
-          "content": "!process capital one paze offer",
-          "date": "2026-03-24",
-          "author": "nikbot05",
-          "stage": "offer"
-        },
-        {
-          "content": "!process c1 reject \ud83d\udd25",
-          "date": "2026-03-24",
-          "author": "bandybot",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process c1 rej \ud83d\ude14 email said they reached hc, not sure if that's true or not",
-          "date": "2026-03-20",
-          "author": "The1stGamerInTheUniverse",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process c1 rejected same email",
-          "date": "2026-03-20",
-          "author": "Gabe",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process UMD + Capital one Spring +",
-          "date": "2026-03-19",
-          "author": "sb",
-          "stage": "question"
-        }
-      ],
-      "threads": [
-        {
-          "title": "capital one reachout wtf",
-          "messages": [
-            {
-              "content": "!process capital one reachout wtf",
-              "date": "2026-04-22",
-              "author": "been"
-            }
-          ]
-        },
-        {
-          "title": "is c1 just pass 2!3 then offer",
-          "messages": [
-            {
-              "content": "Thank you for taking the time to meet with our team. It is not the news I was hoping to deliver, but I wanted to let you know that we will not be able to extend a Technology Internship Program offer at this time. As your recruiter, I am your advocate throughout the process and do not have any direct feedback that I am able to share.",
-              "date": "2026-03-24",
-              "author": "dome"
-            },
-            {
-              "content": "they rej me for that job id tho and put in process for a diff id tho",
-              "date": "2026-03-23",
-              "author": "dome"
-            },
-            {
-              "content": "bro this is my first real process, help me out",
-              "date": "2026-03-20",
-              "author": "powertoons"
-            }
-          ]
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-03-19",
-          "count": 1
-        },
-        {
-          "date": "2026-03-20",
-          "count": 2
-        },
-        {
-          "date": "2026-03-24",
-          "count": 2
-        },
-        {
-          "date": "2026-03-25",
-          "count": 1
-        },
-        {
-          "date": "2026-03-27",
-          "count": 1
-        },
-        {
-          "date": "2026-04-22",
-          "count": 1
-        },
-        {
-          "date": "2026-04-24",
-          "count": 1
-        }
-      ]
+      "messages": [],
+      "threads": [],
+      "daily": []
     },
     {
-      "name": "jane street",
+      "name": "Netflix",
+      "count": 10,
+      "stages": {
+        "offer": 3,
+        "rejection": 1,
+        "interview": 2,
+        "oa": 1,
+        "question": 3
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Patreon",
+      "count": 10,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 3,
+        "oa": 1,
+        "question": 6
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Salesforce",
+      "count": 10,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 3,
+        "oa": 1,
+        "question": 5
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Sierra Space",
+      "count": 10,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 2,
+        "question": 8
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "CVS",
+      "count": 9,
+      "stages": {
+        "offer": 4,
+        "rejection": 1,
+        "interview": 2,
+        "oa": 0,
+        "question": 2
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Disney",
+      "count": 9,
+      "stages": {
+        "offer": 3,
+        "rejection": 2,
+        "interview": 2,
+        "oa": 0,
+        "question": 2
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Doordash",
+      "count": 9,
+      "stages": {
+        "offer": 1,
+        "rejection": 1,
+        "interview": 0,
+        "oa": 0,
+        "question": 7
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "DRW",
       "count": 9,
       "stages": {
         "offer": 0,
         "rejection": 0,
+        "interview": 1,
+        "oa": 3,
+        "question": 5
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Klaviyo",
+      "count": 9,
+      "stages": {
+        "offer": 1,
+        "rejection": 2,
+        "interview": 0,
+        "oa": 0,
+        "question": 6
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Nuro",
+      "count": 9,
+      "stages": {
+        "offer": 0,
+        "rejection": 2,
+        "interview": 0,
+        "oa": 0,
+        "question": 7
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Riot Games",
+      "count": 9,
+      "stages": {
+        "offer": 0,
+        "rejection": 2,
         "interview": 2,
+        "oa": 0,
+        "question": 5
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Walmart",
+      "count": 9,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 0,
+        "question": 8
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "xAI",
+      "count": 9,
+      "stages": {
+        "offer": 0,
+        "rejection": 1,
+        "interview": 5,
+        "oa": 1,
+        "question": 2
+      },
+      "messages": [
+        {
+          "content": "!process xAI exceptional engineer (please DM) \ud83e\udd79",
+          "date": "2026-04-29",
+          "author": "kal",
+          "stage": "question"
+        },
+        {
+          "content": "!process xai onsite",
+          "date": "2026-03-22",
+          "author": "dni",
+          "stage": "interview"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-22",
+          "count": 1
+        },
+        {
+          "date": "2026-04-29",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Box",
+      "count": 8,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 1,
+        "question": 7
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Crowdstrike",
+      "count": 8,
+      "stages": {
+        "offer": 1,
+        "rejection": 1,
+        "interview": 5,
+        "oa": 1,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "MongoDB",
+      "count": 8,
+      "stages": {
+        "offer": 1,
+        "rejection": 1,
+        "interview": 4,
+        "oa": 0,
+        "question": 2
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Robinhood",
+      "count": 8,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 0,
         "oa": 0,
         "question": 7
       },
       "messages": [
         {
-          "content": "!process jane street swe r1 2027 (dm",
-          "date": "2026-04-23",
-          "author": "yeema",
+          "content": "!process does robinhood push to fall?",
+          "date": "2026-03-18",
+          "author": "LunaF\u00eate\u2728",
+          "stage": "question"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-18",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Verkada",
+      "count": 8,
+      "stages": {
+        "offer": 0,
+        "rejection": 1,
+        "interview": 1,
+        "oa": 1,
+        "question": 5
+      },
+      "messages": [
+        {
+          "content": "!process verkada phone",
+          "date": "2026-04-28",
+          "author": "Styx \u30c4",
+          "stage": "question"
+        },
+        {
+          "content": "!process has anyone got anything from Verkada for fall internships",
+          "date": "2026-04-15",
+          "author": "yeachill",
+          "stage": "question"
+        },
+        {
+          "content": "!process Verkada recruiter reach out with OA",
+          "date": "2026-04-15",
+          "author": "RabidGlasses",
+          "stage": "oa"
+        },
+        {
+          "content": "!process verkada frontend",
+          "date": "2026-04-15",
+          "author": "EKmaster",
+          "stage": "question"
+        },
+        {
+          "content": "!process notion reject\n!process hp iq reject\n!process verkada reject\n!process sentry reject",
+          "date": "2026-04-13",
+          "author": "fkskf",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process msft or verkada?",
+          "date": "2026-04-06",
+          "author": "killgrind",
+          "stage": "question"
+        },
+        {
+          "content": "!process Verkada final frontend anyone done this?",
+          "date": "2026-04-03",
+          "author": "TrenchTV",
+          "stage": "question"
+        },
+        {
+          "content": "!process verkada frontend swe intern technical screen",
+          "date": "2026-04-01",
+          "author": "TrenchTV",
           "stage": "interview"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-04-01",
+          "count": 1
         },
         {
-          "content": "!process jane street swe (Dm)",
+          "date": "2026-04-03",
+          "count": 1
+        },
+        {
+          "date": "2026-04-06",
+          "count": 1
+        },
+        {
+          "date": "2026-04-13",
+          "count": 1
+        },
+        {
+          "date": "2026-04-15",
+          "count": 3
+        },
+        {
+          "date": "2026-04-28",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "ZipRecruiter",
+      "count": 8,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 2,
+        "question": 6
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Cit Sec",
+      "count": 7,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 2,
+        "oa": 0,
+        "question": 4
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Handshake",
+      "count": 7,
+      "stages": {
+        "offer": 2,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 4
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Palo Alto",
+      "count": 7,
+      "stages": {
+        "offer": 2,
+        "rejection": 1,
+        "interview": 1,
+        "oa": 0,
+        "question": 3
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Rippling",
+      "count": 7,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 2,
+        "oa": 0,
+        "question": 5
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Virtu",
+      "count": 7,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 3,
+        "oa": 0,
+        "question": 4
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Nokia",
+      "count": 6,
+      "stages": {
+        "offer": 1,
+        "rejection": 1,
+        "interview": 1,
+        "oa": 0,
+        "question": 3
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "ARM",
+      "count": 5,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 3
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "ASML",
+      "count": 5,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 4
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Ericsson",
+      "count": 5,
+      "stages": {
+        "offer": 2,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 0,
+        "question": 3
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Neuralink",
+      "count": 5,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 0,
+        "question": 5
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Uber",
+      "count": 5,
+      "stages": {
+        "offer": 1,
+        "rejection": 1,
+        "interview": 1,
+        "oa": 0,
+        "question": 2
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Scale AI",
+      "count": 4,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 2,
+        "oa": 1,
+        "question": 1
+      },
+      "messages": [
+        {
+          "content": "!process scale ai tech advisor ro",
           "date": "2026-04-22",
-          "author": "\ud83d\ude07",
+          "author": "twohundredsonly",
           "stage": "question"
         },
         {
-          "content": "!process jane street blacklist",
-          "date": "2026-04-22",
-          "author": "railgunbiggestfanboy",
-          "stage": "question"
-        },
-        {
-          "content": "!process jane street swe (Dm)",
-          "date": "2026-04-22",
-          "author": "mkw",
-          "stage": "question"
-        },
-        {
-          "content": "!process jane street swe r1 2027 (dm)",
-          "date": "2026-04-22",
-          "author": "kite",
+          "content": "!process anyone know what they ask for onsite coding round scale ai swe internship",
+          "date": "2026-03-23",
+          "author": "RoyalFish999",
           "stage": "interview"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-03-23",
+          "count": 1
         },
         {
-          "content": "!process jane street swe (Dm)",
           "date": "2026-04-22",
-          "author": "dankalt3",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "The Trade Desk",
+      "count": 4,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 3,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Anthropic",
+      "count": 3,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 0,
+        "question": 3
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Point72",
+      "count": 3,
+      "stages": {
+        "offer": 0,
+        "rejection": 1,
+        "interview": 1,
+        "oa": 0,
+        "question": 1
+      },
+      "messages": [
+        {
+          "content": "!process point72 rejection",
+          "date": "2026-04-27",
+          "author": "strafe",
+          "stage": "rejection"
+        },
+        {
+          "content": "!process point72 airing me out for",
+          "date": "2026-04-20",
+          "author": "madao",
           "stage": "question"
         },
         {
-          "content": "!process jane street swe (Dm)",
-          "date": "2026-04-22",
-          "author": "allarkvarkk",
-          "stage": "question"
-        },
-        {
-          "content": "!process jane street swe (Dm)",
-          "date": "2026-04-22",
-          "author": "Raemelia",
-          "stage": "question"
-        },
-        {
-          "content": "!process jane street swe (Dm)",
-          "date": "2026-04-22",
-          "author": "Maxony",
-          "stage": "question"
+          "content": "!process Point72 Quant Developer interview process",
+          "date": "2026-04-20",
+          "author": "couch_potato",
+          "stage": "interview"
         }
       ],
       "threads": [
         {
-          "title": "jane street swe (Dm)",
+          "title": "p72 qd intern r1",
           "messages": [
             {
-              "content": "!process jane street swe (Dm)",
-              "date": "2026-04-22",
-              "author": "james1928"
+              "content": "!process p72 qd intern r1",
+              "date": "2026-04-20",
+              "author": "sailor moon"
+            }
+          ]
+        },
+        {
+          "title": "point72 airing me out for",
+          "messages": [
+            {
+              "content": "!process point72 airing me out for Summer 2026 AI Intern \ud83d\ude2d",
+              "date": "2026-04-20",
+              "author": "kite"
             }
           ]
         }
       ],
       "daily": [
         {
-          "date": "2026-04-22",
-          "count": 8
+          "date": "2026-04-20",
+          "count": 2
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-27",
           "count": 1
         }
       ]
     },
     {
-      "name": "strava",
-      "count": 8,
+      "name": "Arrowstreet Capital",
+      "count": 2,
       "stages": {
-        "offer": 2,
+        "offer": 0,
         "rejection": 1,
-        "interview": 3,
+        "interview": 1,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [
+        {
+          "content": "!process arrowstreet swe superday help needed",
+          "date": "2026-04-24",
+          "author": "madao",
+          "stage": "interview"
+        },
+        {
+          "content": "!process ArrowStreet Capital swe intern rej after final round",
+          "date": "2026-04-20",
+          "author": "Enes",
+          "stage": "rejection"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-04-20",
+          "count": 1
+        },
+        {
+          "date": "2026-04-24",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Brex",
+      "count": 2,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 0,
         "oa": 0,
         "question": 2
+      },
+      "messages": [
+        {
+          "content": "!process Brex",
+          "date": "2026-04-09",
+          "author": "Amine",
+          "stage": "question"
+        },
+        {
+          "content": "!process brex final round",
+          "date": "2026-04-02",
+          "author": "Fury",
+          "stage": "question"
+        }
+      ],
+      "threads": [],
+      "daily": [
+        {
+          "date": "2026-04-02",
+          "count": 1
+        },
+        {
+          "date": "2026-04-09",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "General Motors",
+      "count": 2,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 2,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Mechanize",
+      "count": 2,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 2,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Strava",
+      "count": 2,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 2,
+        "oa": 0,
+        "question": 0
       },
       "messages": [
         {
@@ -3896,752 +5635,7 @@
       ]
     },
     {
-      "name": "verkada",
-      "count": 8,
-      "stages": {
-        "offer": 0,
-        "rejection": 1,
-        "interview": 1,
-        "oa": 1,
-        "question": 5
-      },
-      "messages": [
-        {
-          "content": "!process verkada phone",
-          "date": "2026-04-28",
-          "author": "Styx \u30c4",
-          "stage": "question"
-        },
-        {
-          "content": "!process has anyone got anything from Verkada for fall internships",
-          "date": "2026-04-15",
-          "author": "yeachill",
-          "stage": "question"
-        },
-        {
-          "content": "!process Verkada recruiter reach out with OA",
-          "date": "2026-04-15",
-          "author": "RabidGlasses",
-          "stage": "oa"
-        },
-        {
-          "content": "!process verkada frontend",
-          "date": "2026-04-15",
-          "author": "EKmaster",
-          "stage": "question"
-        },
-        {
-          "content": "!process notion reject\n!process hp iq reject\n!process verkada reject\n!process sentry reject",
-          "date": "2026-04-13",
-          "author": "fkskf",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process msft or verkada?",
-          "date": "2026-04-06",
-          "author": "killgrind",
-          "stage": "question"
-        },
-        {
-          "content": "!process Verkada final frontend anyone done this?",
-          "date": "2026-04-03",
-          "author": "TrenchTV",
-          "stage": "question"
-        },
-        {
-          "content": "!process verkada frontend swe intern technical screen",
-          "date": "2026-04-01",
-          "author": "TrenchTV",
-          "stage": "interview"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-04-01",
-          "count": 1
-        },
-        {
-          "date": "2026-04-03",
-          "count": 1
-        },
-        {
-          "date": "2026-04-06",
-          "count": 1
-        },
-        {
-          "date": "2026-04-13",
-          "count": 1
-        },
-        {
-          "date": "2026-04-15",
-          "count": 3
-        },
-        {
-          "date": "2026-04-28",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "spaceX",
-      "count": 7,
-      "stages": {
-        "offer": 4,
-        "rejection": 0,
-        "interview": 0,
-        "oa": 0,
-        "question": 3
-      },
-      "messages": [
-        {
-          "content": "!process dm if did spaceX proc",
-          "date": "2026-04-13",
-          "author": "fiestychicken",
-          "stage": "question"
-        },
-        {
-          "content": "!process SpaceX offer",
-          "date": "2026-04-13",
-          "author": "darkrepulser213",
-          "stage": "offer"
-        },
-        {
-          "content": "!process spacex fall, anyone knows what",
-          "date": "2026-04-10",
-          "author": "EKmaster",
-          "stage": "question"
-        },
-        {
-          "content": "!process spaceX reachout",
-          "date": "2026-03-31",
-          "author": "tentor",
-          "stage": "question"
-        },
-        {
-          "content": "!process spacex offer, done for this",
-          "date": "2026-03-31",
-          "author": "EKmaster",
-          "stage": "offer"
-        },
-        {
-          "content": "!process spacex offer",
-          "date": "2026-03-29",
-          "author": "TriageSpace",
-          "stage": "offer"
-        },
-        {
-          "content": "!process spacex offer",
-          "date": "2026-03-28",
-          "author": "SpaceT",
-          "stage": "offer"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-28",
-          "count": 1
-        },
-        {
-          "date": "2026-03-29",
-          "count": 1
-        },
-        {
-          "date": "2026-03-31",
-          "count": 2
-        },
-        {
-          "date": "2026-04-10",
-          "count": 1
-        },
-        {
-          "date": "2026-04-13",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "google",
-      "count": 6,
-      "stages": {
-        "offer": 2,
-        "rejection": 0,
-        "interview": 0,
-        "oa": 0,
-        "question": 4
-      },
-      "messages": [
-        {
-          "content": "!process google offer",
-          "date": "2026-03-24",
-          "author": "Obi, the Awesome",
-          "stage": "offer"
-        },
-        {
-          "content": "!process is google still team matching?",
-          "date": "2026-03-23",
-          "author": "s",
-          "stage": "question"
-        },
-        {
-          "content": "!process google search",
-          "date": "2026-03-23",
-          "author": "been",
-          "stage": "question"
-        },
-        {
-          "content": "!process has anyone been getting google tm calls recently \ud83d\ude2d",
-          "date": "2026-03-19",
-          "author": "s",
-          "stage": "question"
-        },
-        {
-          "content": "!process ASU + Capital one summer + Zonami Fall, reneged google, declined plaid and stripe !!!",
-          "date": "2026-03-19",
-          "author": "_hi_",
-          "stage": "question"
-        },
-        {
-          "content": "!process spaceX, Google, Snap ML offer,",
-          "date": "2026-03-19",
-          "author": "SpadeAce",
-          "stage": "offer"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-19",
-          "count": 3
-        },
-        {
-          "date": "2026-03-23",
-          "count": 2
-        },
-        {
-          "date": "2026-03-24",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "cloudflare",
-      "count": 5,
-      "stages": {
-        "offer": 1,
-        "rejection": 0,
-        "interview": 3,
-        "oa": 0,
-        "question": 1
-      },
-      "messages": [
-        {
-          "content": "!process cloudflare threat detection summer 2026",
-          "date": "2026-04-21",
-          "author": "Joey Kaji",
-          "stage": "question"
-        },
-        {
-          "content": "!process Cloudflare team matching round, anyone know how it works?",
-          "date": "2026-04-15",
-          "author": "Mogdawg",
-          "stage": "interview"
-        },
-        {
-          "content": "!process cloudflare Team matching round",
-          "date": "2026-04-13",
-          "author": "LemonGrassChicken",
-          "stage": "interview"
-        },
-        {
-          "content": "!process Cloudflare Security Engineer Intern interview",
-          "date": "2026-04-02",
-          "author": "cmcTfg203",
-          "stage": "interview"
-        },
-        {
-          "content": "!process finally signed cloudflare offer <:kirbywow:869031817150365737>",
-          "date": "2026-03-20",
-          "author": "KingPing67",
-          "stage": "offer"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-20",
-          "count": 1
-        },
-        {
-          "date": "2026-04-02",
-          "count": 1
-        },
-        {
-          "date": "2026-04-13",
-          "count": 1
-        },
-        {
-          "date": "2026-04-15",
-          "count": 1
-        },
-        {
-          "date": "2026-04-21",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "microsoft",
-      "count": 5,
-      "stages": {
-        "offer": 2,
-        "rejection": 0,
-        "interview": 0,
-        "oa": 0,
-        "question": 3
-      },
-      "messages": [
-        {
-          "content": "!process microsoft waterloo fall posting",
-          "date": "2026-04-02",
-          "author": "Soup",
-          "stage": "question"
-        },
-        {
-          "content": "!process microsoft research intern",
-          "date": "2026-04-01",
-          "author": "Jason l",
-          "stage": "question"
-        },
-        {
-          "content": "!process microsoft apply (data engineer)",
-          "date": "2026-03-28",
-          "author": "Junxiang Lin",
-          "stage": "question"
-        },
-        {
-          "content": "!process can u move microsoft offer to toronto",
-          "date": "2026-03-26",
-          "author": "killgrind",
-          "stage": "offer"
-        },
-        {
-          "content": "!process microsoft swe offer (reneged",
-          "date": "2026-03-25",
-          "author": "Brandon",
-          "stage": "offer"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-25",
-          "count": 1
-        },
-        {
-          "date": "2026-03-26",
-          "count": 1
-        },
-        {
-          "date": "2026-03-28",
-          "count": 1
-        },
-        {
-          "date": "2026-04-01",
-          "count": 1
-        },
-        {
-          "date": "2026-04-02",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "spacex",
-      "count": 4,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 3,
-        "oa": 1,
-        "question": 0
-      },
-      "messages": [
-        {
-          "content": "!process spacex takehome (any info)?",
-          "date": "2026-04-29",
-          "author": "Please give me MAANG",
-          "stage": "oa"
-        },
-        {
-          "content": "!process spacex fall swe R1 what to expect dm?",
-          "date": "2026-04-28",
-          "author": "m3pnhb3k",
-          "stage": "interview"
-        },
-        {
-          "content": "!process spacex starship fall r1",
-          "date": "2026-04-28",
-          "author": "banani",
-          "stage": "interview"
-        },
-        {
-          "content": "!process spacex 26 summer interview, can I ask to interview later for fall have finals these two weeks\u2026. ?",
-          "date": "2026-04-22",
-          "author": "TheGrindNeverStops!",
-          "stage": "interview"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-04-22",
-          "count": 1
-        },
-        {
-          "date": "2026-04-28",
-          "count": 2
-        },
-        {
-          "date": "2026-04-29",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "akuna",
-      "count": 3,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 0,
-        "oa": 1,
-        "question": 2
-      },
-      "messages": [
-        {
-          "content": "!process akuna capital swe intern",
-          "date": "2026-03-23",
-          "author": "adem",
-          "stage": "question"
-        },
-        {
-          "content": "!process akuna oa 2",
-          "date": "2026-03-23",
-          "author": "Harass The World",
-          "stage": "oa"
-        },
-        {
-          "content": "!process akuna capital swe intern",
-          "date": "2026-03-20",
-          "author": "s",
-          "stage": "question"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-20",
-          "count": 1
-        },
-        {
-          "date": "2026-03-23",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "point72",
-      "count": 3,
-      "stages": {
-        "offer": 0,
-        "rejection": 1,
-        "interview": 1,
-        "oa": 0,
-        "question": 1
-      },
-      "messages": [
-        {
-          "content": "!process point72 rejection",
-          "date": "2026-04-27",
-          "author": "strafe",
-          "stage": "rejection"
-        },
-        {
-          "content": "!process point72 airing me out for",
-          "date": "2026-04-20",
-          "author": "madao",
-          "stage": "question"
-        },
-        {
-          "content": "!process Point72 Quant Developer interview process",
-          "date": "2026-04-20",
-          "author": "couch_potato",
-          "stage": "interview"
-        }
-      ],
-      "threads": [
-        {
-          "title": "p72 qd intern r1",
-          "messages": [
-            {
-              "content": "!process p72 qd intern r1",
-              "date": "2026-04-20",
-              "author": "sailor moon"
-            }
-          ]
-        },
-        {
-          "title": "point72 airing me out for",
-          "messages": [
-            {
-              "content": "!process point72 airing me out for Summer 2026 AI Intern \ud83d\ude2d",
-              "date": "2026-04-20",
-              "author": "kite"
-            }
-          ]
-        }
-      ],
-      "daily": [
-        {
-          "date": "2026-04-20",
-          "count": 2
-        },
-        {
-          "date": "2026-04-27",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "two sigma",
-      "count": 3,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 3,
-        "oa": 0,
-        "question": 0
-      },
-      "messages": [
-        {
-          "content": "!process two sigma r2",
-          "date": "2026-03-24",
-          "author": "ql3gruhkjaf",
-          "stage": "interview"
-        },
-        {
-          "content": "!process two sigma r1, dm if same boat / already past r1",
-          "date": "2026-03-22",
-          "author": "tris",
-          "stage": "interview"
-        },
-        {
-          "content": "!process Two Sigma SWE intern interview, round 1",
-          "date": "2026-03-20",
-          "author": "dookie416",
-          "stage": "interview"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-20",
-          "count": 1
-        },
-        {
-          "date": "2026-03-22",
-          "count": 1
-        },
-        {
-          "date": "2026-03-24",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "arrowstreet capital",
-      "count": 2,
-      "stages": {
-        "offer": 0,
-        "rejection": 1,
-        "interview": 1,
-        "oa": 0,
-        "question": 0
-      },
-      "messages": [
-        {
-          "content": "!process arrowstreet swe superday help needed",
-          "date": "2026-04-24",
-          "author": "madao",
-          "stage": "interview"
-        },
-        {
-          "content": "!process ArrowStreet Capital swe intern rej after final round",
-          "date": "2026-04-20",
-          "author": "Enes",
-          "stage": "rejection"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-04-20",
-          "count": 1
-        },
-        {
-          "date": "2026-04-24",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "brex",
-      "count": 2,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 0,
-        "oa": 0,
-        "question": 2
-      },
-      "messages": [
-        {
-          "content": "!process Brex",
-          "date": "2026-04-09",
-          "author": "Amine",
-          "stage": "question"
-        },
-        {
-          "content": "!process brex final round",
-          "date": "2026-04-02",
-          "author": "Fury",
-          "stage": "question"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-04-02",
-          "count": 1
-        },
-        {
-          "date": "2026-04-09",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "meta",
-      "count": 2,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 0,
-        "oa": 0,
-        "question": 2
-      },
-      "messages": [
-        {
-          "content": "!process if anyone is doing a Research Internship at Meta this summer, hmu lets connect!",
-          "date": "2026-03-22",
-          "author": "dhan",
-          "stage": "question"
-        },
-        {
-          "content": "!process when is meta team match released",
-          "date": "2026-03-19",
-          "author": "killooa",
-          "stage": "question"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-19",
-          "count": 1
-        },
-        {
-          "date": "2026-03-22",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "pinterest",
-      "count": 2,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 1,
-        "oa": 0,
-        "question": 1
-      },
-      "messages": [
-        {
-          "content": "!process what lc questions does Pinterest ask in technical",
-          "date": "2026-04-28",
-          "author": "Cheezecake",
-          "stage": "interview"
-        },
-        {
-          "content": "!process pinterest, has anyone done proc",
-          "date": "2026-04-24",
-          "author": "obitou26",
-          "stage": "question"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-04-24",
-          "count": 1
-        },
-        {
-          "date": "2026-04-28",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "scale ai",
-      "count": 2,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 1,
-        "oa": 0,
-        "question": 1
-      },
-      "messages": [
-        {
-          "content": "!process scale ai tech advisor ro",
-          "date": "2026-04-22",
-          "author": "twohundredsonly",
-          "stage": "question"
-        },
-        {
-          "content": "!process anyone know what they ask for onsite coding round scale ai swe internship",
-          "date": "2026-03-23",
-          "author": "RoyalFish999",
-          "stage": "interview"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-23",
-          "count": 1
-        },
-        {
-          "date": "2026-04-22",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "texas instruments",
+      "name": "Texas Instruments",
       "count": 2,
       "stages": {
         "offer": 0,
@@ -4677,43 +5671,7 @@
       ]
     },
     {
-      "name": "xai",
-      "count": 2,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 1,
-        "oa": 0,
-        "question": 1
-      },
-      "messages": [
-        {
-          "content": "!process xAI exceptional engineer (please DM) \ud83e\udd79",
-          "date": "2026-04-29",
-          "author": "kal",
-          "stage": "question"
-        },
-        {
-          "content": "!process xai onsite",
-          "date": "2026-03-22",
-          "author": "dni",
-          "stage": "interview"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-22",
-          "count": 1
-        },
-        {
-          "date": "2026-04-29",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "alibaba",
+      "name": "Alibaba",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -4750,7 +5708,7 @@
       ]
     },
     {
-      "name": "analysis group",
+      "name": "Analysis Group",
       "count": 1,
       "stages": {
         "offer": 1,
@@ -4776,7 +5734,7 @@
       ]
     },
     {
-      "name": "appian",
+      "name": "Appian",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -4802,7 +5760,49 @@
       ]
     },
     {
-      "name": "bloomberg",
+      "name": "Applied Materials",
+      "count": 1,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Arrowstreet",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Blizzard",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Bloomberg",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -4828,7 +5828,7 @@
       ]
     },
     {
-      "name": "bytedance",
+      "name": "ByteDance",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -4854,7 +5854,7 @@
       ]
     },
     {
-      "name": "c3 ai",
+      "name": "C3 AI",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -4880,33 +5880,21 @@
       ]
     },
     {
-      "name": "coinbase",
+      "name": "Carfax",
       "count": 1,
       "stages": {
         "offer": 0,
-        "rejection": 1,
-        "interview": 0,
+        "rejection": 0,
+        "interview": 1,
         "oa": 0,
         "question": 0
       },
-      "messages": [
-        {
-          "content": "!process coinbase mle reject after final \ud83d\ude14",
-          "date": "2026-03-23",
-          "author": "Meher",
-          "stage": "rejection"
-        }
-      ],
+      "messages": [],
       "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-23",
-          "count": 1
-        }
-      ]
+      "daily": []
     },
     {
-      "name": "crusoe",
+      "name": "Crusoe",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -4932,33 +5920,35 @@
       ]
     },
     {
-      "name": "expedia",
+      "name": "Deloitte",
       "count": 1,
       "stages": {
         "offer": 0,
         "rejection": 0,
-        "interview": 0,
+        "interview": 1,
         "oa": 0,
-        "question": 1
+        "question": 0
       },
-      "messages": [
-        {
-          "content": "!process expedia final round",
-          "date": "2026-04-17",
-          "author": "vicksey",
-          "stage": "question"
-        }
-      ],
+      "messages": [],
       "threads": [],
-      "daily": [
-        {
-          "date": "2026-04-17",
-          "count": 1
-        }
-      ]
+      "daily": []
     },
     {
-      "name": "fifth third bank",
+      "name": "F5",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Fifth Third Bank",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -4984,7 +5974,7 @@
       ]
     },
     {
-      "name": "forward networks",
+      "name": "Forward Networks",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -5010,7 +6000,7 @@
       ]
     },
     {
-      "name": "genesis molecular",
+      "name": "Genesis Molecular",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -5036,7 +6026,7 @@
       ]
     },
     {
-      "name": "hp",
+      "name": "HP",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -5062,59 +6052,21 @@
       ]
     },
     {
-      "name": "hrt",
+      "name": "Intel",
       "count": 1,
       "stages": {
         "offer": 0,
-        "rejection": 1,
-        "interview": 0,
-        "oa": 0,
-        "question": 0
-      },
-      "messages": [
-        {
-          "content": "!process i havent heard back from explore hrt are we rejected",
-          "date": "2026-03-31",
-          "author": "sideblitz",
-          "stage": "rejection"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-31",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "intuit",
-      "count": 1,
-      "stages": {
-        "offer": 1,
         "rejection": 0,
         "interview": 0,
         "oa": 0,
-        "question": 0
+        "question": 1
       },
-      "messages": [
-        {
-          "content": "!process intuit san diego offer, dm if you're also",
-          "date": "2026-03-23",
-          "author": "sushinoko",
-          "stage": "offer"
-        }
-      ],
+      "messages": [],
       "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-23",
-          "count": 1
-        }
-      ]
+      "daily": []
     },
     {
-      "name": "jump",
+      "name": "Jump",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -5140,59 +6092,7 @@
       ]
     },
     {
-      "name": "robinhood",
-      "count": 1,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 0,
-        "oa": 0,
-        "question": 1
-      },
-      "messages": [
-        {
-          "content": "!process does robinhood push to fall?",
-          "date": "2026-03-18",
-          "author": "LunaF\u00eate\u2728",
-          "stage": "question"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-03-18",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopify",
-      "count": 1,
-      "stages": {
-        "offer": 0,
-        "rejection": 0,
-        "interview": 0,
-        "oa": 0,
-        "question": 1
-      },
-      "messages": [
-        {
-          "content": "!process can i apply to shopify internships if im a new grad?",
-          "date": "2026-04-27",
-          "author": "R",
-          "stage": "question"
-        }
-      ],
-      "threads": [],
-      "daily": [
-        {
-          "date": "2026-04-27",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "snapchat",
+      "name": "Kalshi",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -5201,24 +6101,101 @@
         "oa": 0,
         "question": 0
       },
-      "messages": [
-        {
-          "content": "!process completed snap interview",
-          "date": "2026-03-19",
-          "author": "playp.",
-          "stage": "interview"
-        }
-      ],
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Lyft",
+      "count": 1,
+      "stages": {
+        "offer": 1,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "NASA",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Paramount",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Pokemon Go",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 1,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "PwC",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Rocket Lab",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 0,
+        "question": 1
+      },
+      "messages": [],
       "threads": [],
       "daily": [
         {
-          "date": "2026-03-19",
+          "date": "2026-04-18",
           "count": 1
         }
       ]
     },
     {
-      "name": "stoke",
+      "name": "Stoke",
       "count": 1,
       "stages": {
         "offer": 0,
@@ -5242,6 +6219,48 @@
           "count": 1
         }
       ]
+    },
+    {
+      "name": "Truth Social",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Valk Trading",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 0,
+        "oa": 1,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
+    },
+    {
+      "name": "Voyager Technologies",
+      "count": 1,
+      "stages": {
+        "offer": 0,
+        "rejection": 0,
+        "interview": 1,
+        "oa": 0,
+        "question": 0
+      },
+      "messages": [],
+      "threads": [],
+      "daily": []
     }
   ],
   "timeline": [
@@ -5592,6 +6611,41 @@
   ],
   "recent": [
     {
+      "content": "AMAZON OFFER AT 5AM. ZON",
+      "company": "Amazon",
+      "stage": "offer",
+      "date": "2026-04-29",
+      "author": ""
+    },
+    {
+      "content": "openai fall offer",
+      "company": "OpenAI",
+      "stage": "offer",
+      "date": "2026-04-29",
+      "author": ""
+    },
+    {
+      "content": "!process openai fall offer",
+      "company": "OpenAI",
+      "stage": "offer",
+      "date": "2026-04-29",
+      "author": "twohundredsonly"
+    },
+    {
+      "content": "!process AMAZON OFFER AT 5AM. ZON",
+      "company": "Amazon",
+      "stage": "offer",
+      "date": "2026-04-29",
+      "author": "gura"
+    },
+    {
+      "content": "!process amazon offer",
+      "company": "Amazon",
+      "stage": "offer",
+      "date": "2026-04-29",
+      "author": "Destructo"
+    },
+    {
       "content": "!process\nAfter months of applications, referrals, resume edits, OA prep, and interviews, I am officially out of cycles. No offers this season.\n\nI genuinely thought this would be the year. I did everyt",
       "company": null,
       "stage": "rejection",
@@ -5604,13 +6658,6 @@
       "stage": "interview",
       "date": "2026-04-29",
       "author": "vik"
-    },
-    {
-      "content": "!process openai fall offer",
-      "company": "OpenAI",
-      "stage": "offer",
-      "date": "2026-04-29",
-      "author": "twohundredsonly"
     },
     {
       "content": "!process zon reject after technical",
@@ -5627,13 +6674,6 @@
       "author": "simpforgtrs"
     },
     {
-      "content": "!process\nAfter months of applications, referrals, resume edits, OA prep, and interviews, I am officially out of cycles. No offers this season.\n\nI genuinely thought this would be the year. I did everyt",
-      "company": null,
-      "stage": "rejection",
-      "date": "2026-04-29",
-      "author": "simpforgtrs"
-    },
-    {
       "content": "!process palantir tech (1 yr): how long after interview to hear back?",
       "company": "Palantir",
       "stage": "interview",
@@ -5641,30 +6681,9 @@
       "author": "s"
     },
     {
-      "content": "!process\nAfter months of applications, referrals, resume edits, OA prep, and interviews, I am officially out of cycles. No offers this season.\n\nI genuinely thought this would be the year. I did everyt",
-      "company": null,
-      "stage": "rejection",
-      "date": "2026-04-29",
-      "author": "ropo"
-    },
-    {
-      "content": "!process\nAfter months of applications, referrals, resume edits, OA prep, and interviews, I am officially out of cycles. No offers this season.\n\nI genuinely thought this would be the year. I did everyt",
-      "company": null,
-      "stage": "rejection",
-      "date": "2026-04-29",
-      "author": "railgunbiggestfanboy"
-    },
-    {
       "content": "!process Insightful",
       "company": null,
       "stage": "question",
-      "date": "2026-04-29",
-      "author": "oof123"
-    },
-    {
-      "content": "!process\nAfter months of applications, referrals, resume edits, OA prep, and interviews, I am officially out of cycles. No offers this season.\n\nI genuinely thought this would be the year. I did everyt",
-      "company": null,
-      "stage": "rejection",
       "date": "2026-04-29",
       "author": "oof123"
     },
@@ -5684,7 +6703,7 @@
     },
     {
       "content": "!process is tiktok cooked if im not chinese",
-      "company": "TikTok",
+      "company": "Tiktok",
       "stage": "question",
       "date": "2026-04-29",
       "author": "jonesy2092"
@@ -5697,13 +6716,6 @@
       "author": "hummy"
     },
     {
-      "content": "!process AMAZON OFFER AT 5AM. ZON",
-      "company": "Amazon",
-      "stage": "offer",
-      "date": "2026-04-29",
-      "author": "gura"
-    },
-    {
       "content": "!process optiver r1 swe",
       "company": "Optiver",
       "stage": "interview",
@@ -5711,32 +6723,11 @@
       "author": "extramediumsize"
     },
     {
-      "content": "!process\nAfter months of applications, referrals, resume edits, OA prep, and interviews, I am officially out of cycles. No offers this season.\n\nI genuinely thought this would be the year. I did everyt",
-      "company": null,
-      "stage": "rejection",
-      "date": "2026-04-29",
-      "author": "douille"
-    },
-    {
-      "content": "!process\nAfter months of applications, referrals, resume edits, OA prep, and interviews, I am officially out of cycles. No offers this season.\n\nI genuinely thought this would be the year. I did everyt",
-      "company": null,
-      "stage": "rejection",
-      "date": "2026-04-29",
-      "author": "am"
-    },
-    {
       "content": "!process spacex takehome (any info)?",
       "company": "SpaceX",
       "stage": "oa",
       "date": "2026-04-29",
       "author": "Please give me MAANG"
-    },
-    {
-      "content": "!process amazon offer",
-      "company": "Amazon",
-      "stage": "offer",
-      "date": "2026-04-29",
-      "author": "Destructo"
     },
     {
       "content": "!process I was in line at Starbucks this morning when the cashier looked at me and said:\n\n\"Sir, that'll be $6.18.\"\n\nAnd that's when it hit me.\n\n$6.18.\n\nSix habits. One mindset. Eight streams of income",
@@ -5753,11 +6744,11 @@
       "author": "ChampionHero007"
     },
     {
-      "content": "!process amazon offer",
+      "content": "!process ZON OFFER \ud83c\udf89\ud83c\udf89\ud83c\udf89",
       "company": "Amazon",
       "stage": "offer",
-      "date": "2026-04-29",
-      "author": "AF"
+      "date": "2026-04-28",
+      "author": "gura"
     },
     {
       "content": "!process pm me if u did **tesla ai eng intern proc ** or **tesla ap proc**",
@@ -5803,17 +6794,10 @@
     },
     {
       "content": "!process 3 diff tiktok oa's, is it auto?",
-      "company": "TikTok",
+      "company": "Tiktok",
       "stage": "question",
       "date": "2026-04-28",
       "author": "jonesy2092"
-    },
-    {
-      "content": "!process ZON OFFER \ud83c\udf89\ud83c\udf89\ud83c\udf89",
-      "company": "Amazon",
-      "stage": "offer",
-      "date": "2026-04-28",
-      "author": "gura"
     },
     {
       "content": "!process 13 business days since amazon interview, chance of offer?",
@@ -5824,7 +6808,7 @@
     },
     {
       "content": "!process submitted 600 for 3 tiktok oas",
-      "company": "TikTok",
+      "company": "Tiktok",
       "stage": "question",
       "date": "2026-04-28",
       "author": "extramediumsize"
@@ -5838,7 +6822,7 @@
     },
     {
       "content": "!process has anyone heard back from bytedance swe project intern (security - data team) \ud83d\ude2d",
-      "company": "Bytedance",
+      "company": "ByteDance",
       "stage": "question",
       "date": "2026-04-28",
       "author": "dark"
@@ -5852,7 +6836,7 @@
     },
     {
       "content": "!process ghosted over 1 month by recruiter for tiktok summer 2026 position \ud83d\ude2d\ud83e\udd37\u200d\u2642\ufe0f\u23f3",
-      "company": "TikTok",
+      "company": "Tiktok",
       "stage": "rejection",
       "date": "2026-04-28",
       "author": "blazey"
@@ -5935,361 +6919,396 @@
       "author": "Charlie"
     },
     {
+      "content": "ibm intern san jose offer",
+      "company": "IBM",
+      "stage": "offer",
+      "date": "2026-04-23",
+      "author": ""
+    },
+    {
+      "content": "tesla fall offer",
+      "company": "Tesla",
+      "stage": "offer",
+      "date": "2026-04-22",
+      "author": ""
+    },
+    {
+      "content": "amazon offer\ud83d\ude0b\ud83d\ude0b",
+      "company": "Amazon",
+      "stage": "offer",
+      "date": "2026-04-18",
+      "author": ""
+    },
+    {
+      "content": "!process has anyone interviewed this week and got the offer for zon?",
+      "company": "Amazon",
+      "stage": "offer",
+      "date": "2026-04-18",
+      "author": "garlicBaguetteLover"
+    },
+    {
+      "content": "!process amazon offer\ud83d\ude0b\ud83d\ude0b",
+      "company": "Amazon",
+      "stage": "offer",
+      "date": "2026-04-18",
+      "author": "asian"
+    },
+    {
       "content": "!process notion byteboard dm me",
-      "company": "notion",
+      "company": "Notion",
       "stage": "interview",
       "date": "2026-04-18",
       "author": "vic"
     },
     {
       "content": "!process anyone received offers for amazon after 5 business days?",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-18",
       "author": "sihyun0222"
     },
     {
       "content": "!process ibm recruiter reachout for next",
-      "company": "ibm",
+      "company": "IBM",
       "stage": "interview",
       "date": "2026-04-18",
       "author": "nyxy"
     },
     {
       "content": "!process can\u2019t find shi on texas instruments swe interview",
-      "company": "texas instruments",
+      "company": "Texas Instruments",
       "stage": "interview",
       "date": "2026-04-18",
       "author": "layl"
     },
     {
       "content": "!process anyone heard from the ginormous Zon today?",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-18",
       "author": "jonesy2092"
     },
     {
-      "content": "!process has anyone interviewed this week and got the offer for zon?",
-      "company": "amazon",
-      "stage": "offer",
-      "date": "2026-04-18",
-      "author": "garlicBaguetteLover"
-    },
-    {
       "content": "!process apple health team int, pls helpme  much appraciate!",
-      "company": "apple",
+      "company": "Apple",
       "stage": "question",
       "date": "2026-04-18",
       "author": "free_to_play"
     },
     {
       "content": "!process Cox progress\n!process General Motors progress\n!process Jobsbridge progress\n!process KGS Technology Group progress\n!process Capital One progress\n!process Giga progress\n!process Fifth Third Ban",
-      "company": "fifth third bank",
+      "company": "Fifth Third Bank",
       "stage": "question",
       "date": "2026-04-18",
       "author": "derex"
     },
     {
-      "content": "!process amazon offer\ud83d\ude0b\ud83d\ude0b",
-      "company": "amazon",
-      "stage": "offer",
-      "date": "2026-04-18",
-      "author": "asian"
-    },
-    {
       "content": "!process congrats on optiver",
-      "company": "optiver",
+      "company": "Optiver",
       "stage": "question",
       "date": "2026-04-18",
       "author": "Raemelia"
     },
     {
       "content": "!process anyone get amazon offer after",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-18",
       "author": "Execution24"
     },
     {
+      "content": "!process amazon offer after hm call",
+      "company": "Amazon",
+      "stage": "offer",
+      "date": "2026-04-17",
+      "author": "sihyun0222"
+    },
+    {
+      "content": "!process amazon offer",
+      "company": "Amazon",
+      "stage": "offer",
+      "date": "2026-04-17",
+      "author": "jy"
+    },
+    {
       "content": "!process Amazon swe intern (DB) 2 virtual interviews has anyone done it or been in the process",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "interview",
       "date": "2026-04-17",
       "author": "xcbg_15388"
     },
     {
       "content": "!process expedia final round",
-      "company": "expedia",
+      "company": "Expedia",
       "stage": "question",
       "date": "2026-04-17",
       "author": "vicksey"
     },
     {
       "content": "!process has anyone interviewed with apple ads intern?",
-      "company": "apple",
+      "company": "Apple",
       "stage": "interview",
       "date": "2026-04-17",
       "author": "teiko"
     },
     {
       "content": "!process Amazon offer prayer day 3",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-17",
       "author": "techthief25"
     },
     {
       "content": "!process 4 business days after zon",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-17",
       "author": "techthief25"
     },
     {
-      "content": "!process amazon offer after hm call",
-      "company": "amazon",
-      "stage": "offer",
-      "date": "2026-04-17",
-      "author": "sihyun0222"
-    },
-    {
       "content": "!process zon interview 1 went really good but second (manager) never showed up, interviewer 1 said they\u2019ll reschedule with manager",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "interview",
       "date": "2026-04-17",
       "author": "sassycow"
     },
     {
       "content": "!process 6th biz day since zon int completed",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-17",
       "author": "ricbbin"
     },
     {
       "content": "!process Amazon Front End Engineer Intern Summer 2026 DM if in Proc",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-17",
       "author": "orz"
     },
     {
       "content": "!process Strava swe rejection \ud83e\udd72",
-      "company": "strava",
+      "company": "Strava",
       "stage": "rejection",
       "date": "2026-04-17",
       "author": "null"
     },
     {
       "content": "!process aws in person",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-17",
       "author": "kwen_1"
     },
     {
       "content": "!process aws seattle offer (is this auto)?",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-17",
       "author": "kevin quo zhao"
     },
     {
-      "content": "!process amazon offer",
-      "company": "amazon",
-      "stage": "offer",
-      "date": "2026-04-17",
-      "author": "jy"
-    },
-    {
       "content": "!process bytedance Software Engineer Intern summer 2026 dm if in proc",
-      "company": "tiktok",
+      "company": "Tiktok",
       "stage": "question",
       "date": "2026-04-17",
       "author": "iamjoewest"
     },
     {
       "content": "!process day 3 zon prayer",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-17",
       "author": "finnmcm"
     },
     {
       "content": "!process ibm \"candidate information\" asked 2 weeks after interview , does this mean offer?",
-      "company": "ibm",
+      "company": "IBM",
       "stage": "interview",
       "date": "2026-04-17",
       "author": "fiestychicken"
     },
     {
       "content": "!process anyone who gave interview in Denver for zon ?",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "interview",
       "date": "2026-04-17",
       "author": "cache_money101"
     },
     {
       "content": "!process optiver EIP SWE",
-      "company": "optiver",
+      "company": "Optiver",
       "stage": "question",
       "date": "2026-04-17",
       "author": "anu awesome"
     },
     {
       "content": "!process amazon prime vid team sde",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-17",
       "author": "Zlin_Eleven"
     },
     {
       "content": "!process dm <@512055289965707264> for optiver referral, he got me mine!",
-      "company": "optiver",
+      "company": "Optiver",
       "stage": "question",
       "date": "2026-04-17",
       "author": "Sven"
     },
     {
       "content": "!process bloomberg new grad reachout",
-      "company": "bloomberg",
+      "company": "Bloomberg",
       "stage": "question",
       "date": "2026-04-17",
       "author": "Jayba"
     },
     {
       "content": "!process need to renege amazon, does",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-17",
       "author": "Caesar"
     },
     {
       "content": "!process zon interview Fri 4/10, today will be 5th business day, yet to receive even a survey",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "interview",
       "date": "2026-04-17",
       "author": "Brandon"
     },
     {
       "content": "!process renegging ibm for aws, if anyones desperate a new spot might open up",
-      "company": "ibm",
+      "company": "IBM",
       "stage": "question",
       "date": "2026-04-17",
       "author": "Axv"
     },
     {
       "content": "!process zon onsite invitation( withdrew)",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "interview",
       "date": "2026-04-17",
       "author": "AsteroidBelt"
     },
     {
+      "content": "NVIDIA MLE offer",
+      "company": "Nvidia",
+      "stage": "offer",
+      "date": "2026-04-16",
+      "author": ""
+    },
+    {
       "content": "!process finished zon int",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-16",
       "author": "\ud83d\ude07"
     },
     {
       "content": "!process zon, HM and Sr Dev who interviewed me connected with me on LinkedIn, does this mean they want me and love me",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "interview",
       "date": "2026-04-16",
       "author": "xedra"
     },
     {
       "content": "!process anyone interviewed with amazon on 4/13? (Amazon operations)",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "interview",
       "date": "2026-04-16",
       "author": "sihyun0222"
     },
     {
       "content": "!process does anyone know what zon whole foods marketplace is like",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-16",
       "author": "scarab"
     },
     {
       "content": "!process zon oa successfully completed",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "oa",
       "date": "2026-04-16",
       "author": "nooban"
     },
     {
       "content": "!process has anyone had luck switching amazon toronto to van? this is not for me so im sorry i dont know more details. but any help would be really nice!",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-16",
       "author": "livvy"
     },
     {
       "content": "!process zon successful oa email",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "oa",
       "date": "2026-04-16",
       "author": "kashyapwho"
     },
     {
       "content": "!process is zon hiring manager int technical?",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "interview",
       "date": "2026-04-16",
       "author": "gmi372"
     },
     {
       "content": "!process has anyone been able to push zon to fall",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-16",
       "author": "fiestychicken"
     },
     {
       "content": "!process jump reach out optiver dinner nvidia recruiting event email that has fall opening google onair handshake reachout",
-      "company": "optiver",
+      "company": "Optiver",
       "stage": "question",
       "date": "2026-04-16",
       "author": "extramediumsize"
     },
     {
       "content": "!process applied citadel launch in march, aced oa, got fast tracked to 2nd round a week ago, interviewed on monday no response yet. how long does citadel take to get back?",
-      "company": "citadel",
+      "company": "Citadel",
       "stage": "oa",
       "date": "2026-04-16",
       "author": "david"
     },
     {
       "content": "!process optiver swe final dm",
-      "company": "optiver",
+      "company": "Optiver",
       "stage": "question",
       "date": "2026-04-16",
       "author": "cw"
     },
     {
       "content": "!process Amazon no response, would it be",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-16",
       "author": "chris"
     },
     {
       "content": "!process zon int feedback survey on a Thursday. Heard it\u2019s usually on a Monday. Is it cooked \ud83d\ude4f\ud83c\udffb",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "question",
       "date": "2026-04-16",
       "author": "Zlin_Eleven"
     },
     {
       "content": "!process amazon interview  recruiter intials SG",
-      "company": "amazon",
+      "company": "Amazon",
       "stage": "interview",
       "date": "2026-04-16",
       "author": "Timmy"
+    },
+    {
+      "content": "visa offer !",
+      "company": "Visa",
+      "stage": "offer",
+      "date": "2026-03-24",
+      "author": ""
     }
   ]
 }

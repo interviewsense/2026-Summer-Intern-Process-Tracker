@@ -1,5 +1,3 @@
-<!-- AUTO-GENERATED - run scripts/generate_readme.py to update -->
-
 # 🧠 2026 Summer Intern Process Tracker
 
 We track every `!process` message in the **2026 Summer Intern Process Discord channel** and turn it into something actually useful — `5,369` reports, `130` companies, scraped and rebuilt every 24 hours.
@@ -27,7 +25,7 @@ We track every `!process` message in the **2026 Summer Intern Process Discord ch
 **[Get AI mock interviews built around every company in this list](https://interviewsense.org)**
 
 <a href="https://interviewsense.org">
-  <img src="https://i.ibb.co/bRR8NqsF/Generated-Image-February-20-2026-7-04-PM-Photoroom.png" alt="InterviewSense" width="140" />
+  <img src="assets/logo.png" alt="InterviewSense" width="90" />
 </a>
 
 [![Start Free on InterviewSense](https://img.shields.io/badge/Start%20Free%20on%20InterviewSense-4F5BD5?style=for-the-badge&logoColor=white)](https://interviewsense.org)
@@ -67,93 +65,67 @@ Most discussed companies since March 1:
 
 ### 🎉 Offers Rolling
 
-| Company | 14d Reports | Offers | Interviews | OAs | Rejections | Last Active |
-|---------|-------------|--------|------------|-----|------------|-------------|
-| **Amazon** | `267` | `32` | `108` | `20` | `8` | `2026-03-24` |
-| **IBM** | `93` | `22` | `32` | `0` | `4` | `2026-03-24` |
-| **Visa** | `44` | `6` | `16` | `3` | `0` | `2026-03-24` |
-| **Apple** | `28` | `2` | `8` | `0` | `2` | `2026-03-24` |
-| **Nvidia** | `17` | `3` | `5` | `0` | `0` | `today` |
-| **Google** | `18` | `5` | `2` | `0` | `0` | `2026-03-24` |
-| **Cloudflare** | `8` | `3` | `1` | `0` | `0` | `2026-03-20` |
-| **Capital One** | `12` | `4` | `0` | `0` | `3` | `2026-03-24` |
-| **Citadel** | `14` | `2` | `0` | `1` | `2` | `2026-03-24` |
-| **SoFi** | `10` | `2` | `0` | `0` | `0` | `2026-03-23` |
-| **Qualcomm** | `2` | `1` | `0` | `0` | `0` | `4 days ago` |
-| **Klaviyo** | `2` | `1` | `0` | `0` | `0` | `4 days ago` |
-| **Harvey** | `2` | `1` | `0` | `0` | `0` | `4 days ago` |
-| **Palo Alto Networks** | `1` | `1` | `0` | `0` | `0` | `2026-03-18` |
-| **GitHub** | `5` | `3` | `0` | `0` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=github) |
-| **Docusign** | `1` | `1` | `0` | `0` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=docusign) |
-| **SpaceX** | `1` | `1` | `0` | `0` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=spacex) |
-| **Intuit** | `1` | `1` | `0` | `0` | `0` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=intuit) |
-| **Rivian** | `1` | `1` | `0` | `0` | `0` | `2026-03-19` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=rivian) |
-| **Pinterest** | `1` | `1` | `0` | `0` | `0` | `2026-03-21` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pinterest) |
-| **Crowdstrike** | `1` | `1` | `0` | `0` | `0` | `2026-03-19` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=crowdstrike) |
-| **The Trade Desk** | `4` | `1` | `3` | `0` | `0` | `2026-03-19` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=the-trade-desk) |
+| Company | 14d Reports | Offers | Interviews | OAs | Last Active | Prep |
+|---------|-------------|--------|------------|-----|-------------|------|
+| **Amazon** | `267` | `32` | `108` | `20` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=amazon) |
+| **IBM** | `93` | `22` | `32` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=ibm) |
+| **Visa** | `44` | `6` | `16` | `3` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=visa) |
+| **Apple** | `28` | `2` | `8` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=apple) |
+| **Google** | `18` | `5` | `2` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=google) |
+| **Nvidia** | `17` | `3` | `5` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=nvidia) |
+| **Citadel** | `14` | `2` | `0` | `1` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=citadel) |
+| **Capital One** | `12` | `4` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=capital-one) |
+| **SoFi** | `10` | `2` | `0` | `0` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=sofi) |
+| **Intuit** | `1` | `1` | `0` | `0` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=intuit) |
+| **Pinterest** | `1` | `1` | `0` | `0` | `2026-03-21` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pinterest) |
+| **Cloudflare** | `8` | `3` | `1` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=cloudflare) |
+| **GitHub** | `5` | `3` | `0` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=github) |
+| **Qualcomm** | `2` | `1` | `0` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=qualcomm) |
+| **Klaviyo** | `2` | `1` | `0` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=klaviyo) |
+| **Harvey** | `2` | `1` | `0` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=harvey) |
+| **Docusign** | `1` | `1` | `0` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=docusign) |
+| **SpaceX** | `1` | `1` | `0` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=spacex) |
+| **The Trade Desk** | `4` | `1` | `3` | `0` | `2026-03-19` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=the-trade-desk) |
+| **Rivian** | `1` | `1` | `0` | `0` | `2026-03-19` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=rivian) |
+| **Crowdstrike** | `1` | `1` | `0` | `0` | `2026-03-19` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=crowdstrike) |
+| **Palo Alto Networks** | `1` | `1` | `0` | `0` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=palo-alto-networks) |
 
 ### 🎙️ Interviewing
 
-| Company | 14d Reports | Offers | Interviews | OAs | Rejections | Last Active | Prep |
-|---------|-------------|--------|------------|-----|------------|-------------|------|
-| **Amazon** | `267` | `32` | `108` | `20` | `8` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=amazon) |
-| **Tesla** | `26` | `0` | `14` | `0` | `1` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tesla) |
-| **OpenAI** | `26` | `0` | `5` | `3` | `0` | `2026-03-22` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=openai) |
-| **Optiver** | `22` | `1` | `12` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=optiver) |
-| **Dropbox** | `10` | `0` | `3` | `1` | `1` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=dropbox) |
-| **HRT** | `12` | `0` | `6` | `1` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hrt) |
-| **Oracle** | `8` | `1` | `2` | `0` | `0` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=oracle) |
-| **Rivian** | `9` | `0` | `5` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=rivian) |
-| **HubSpot** | `7` | `0` | `2` | `0` | `0` | `8 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hubspot) |
-| **Geico** | `6` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=geico) |
-| **IMC** | `6` | `0` | `2` | `2` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=imc) |
-| **LinkedIn** | `12` | `0` | `2` | `0` | `7` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=linkedin) |
-| **Snowflake** | `9` | `0` | `4` | `2` | `1` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=snowflake) |
-| **Okta** | `4` | `0` | `1` | `0` | `1` | `4 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=okta) |
-| **Aurora** | `4` | `0` | `1` | `0` | `0` | `6 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=aurora) |
-| **Ramp** | `5` | `1` | `2` | `0` | `1` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=ramp) |
-| **CrowdStrike** | `3` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=crowdstrike) |
-| **Intuit** | `3` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=intuit) |
-| **Jane Street** | `3` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=jane-street) |
-| **SpaceX** | `3` | `0` | `1` | `0` | `0` | `today` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=spacex) |
-| **General Motors** | `2` | `0` | `2` | `0` | `0` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=general-motors) |
-| **Mechanize** | `2` | `0` | `2` | `0` | `0` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=mechanize) |
-| **Akuna** | `5` | `0` | `1` | `1` | `0` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=akuna) |
-| **Virtu** | `2` | `0` | `2` | `0` | `0` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=virtu) |
-| **Truth Social** | `1` | `0` | `1` | `0` | `0` | `2 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=truth-social) |
-| **F5** | `1` | `0` | `1` | `0` | `0` | `2 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=f5) |
-| **Arrowstreet** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=arrowstreet) |
-| **Kalshi** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=kalshi) |
-| **Carfax** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=carfax) |
-| **Deloitte** | `1` | `0` | `1` | `0` | `0` | `1 day ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=deloitte) |
-| **PwC** | `1` | `0` | `1` | `0` | `0` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pwc) |
-| **Strava** | `2` | `0` | `2` | `0` | `0` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=strava) |
-| **Snapchat** | `2` | `0` | `2` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=snapchat) |
-| **Voyager Technologies** | `1` | `0` | `1` | `0` | `0` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=voyager-technologies) |
-| **Paramount** | `1` | `0` | `1` | `0` | `0` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=paramount) |
-| **NASA** | `1` | `0` | `1` | `0` | `0` | `2026-03-18` |
-| **Palantir** | `4` | `0` | `1` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=palantir) |
-| **TikTok** | `4` | `0` | `1` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tiktok) |
-| **Two Sigma** | `3` | `0` | `1` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=two-sigma) |
-| **xAI** | `2` | `0` | `2` | `0` | `0` | `2026-03-22` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=xai) |
-| **SIG** | `2` | `0` | `1` | `0` | `0` | `2026-03-22` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=sig) |
-| **Blizzard** | `1` | `0` | `1` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=blizzard) |
-| **Scale AI** | `1` | `0` | `1` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=scale-ai) | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=nasa) |
+| Company | 14d Reports | Offers | Interviews | OAs | Last Active | Prep |
+|---------|-------------|--------|------------|-----|-------------|------|
+| **Amazon** | `267` | `32` | `108` | `20` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=amazon) |
+| **Tesla** | `26` | `0` | `14` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tesla) |
+| **Optiver** | `22` | `1` | `12` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=optiver) |
+| **HRT** | `12` | `0` | `6` | `1` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hrt) |
+| **LinkedIn** | `12` | `0` | `2` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=linkedin) |
+| **Snowflake** | `9` | `0` | `4` | `2` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=snowflake) |
+| **Palantir** | `4` | `0` | `1` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=palantir) |
+| **TikTok** | `4` | `0` | `1` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tiktok) |
+| **Akuna** | `5` | `0` | `1` | `1` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=akuna) |
+| **Geico** | `6` | `0` | `1` | `0` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=geico) |
+| **IMC** | `6` | `0` | `2` | `2` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=imc) |
+| **Jane Street** | `3` | `0` | `1` | `0` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=jane-street) |
+| **OpenAI** | `26` | `0` | `5` | `3` | `2026-03-22` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=openai) |
+| **Rivian** | `9` | `0` | `5` | `0` | `2026-03-22` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=rivian) |
+| **Dropbox** | `10` | `0` | `3` | `1` | `2026-03-21` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=dropbox) |
+| **Oracle** | `8` | `1` | `2` | `0` | `2026-03-20` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=oracle) |
+| **HubSpot** | `7` | `0` | `2` | `0` | `2026-03-16` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=hubspot) |
 
 ### 📝 OA Wave
 
-| Company | 14d Reports | Offers | Interviews | OAs | Rejections | Last Active | Prep |
-|---------|-------------|--------|------------|-----|------------|-------------|------|
-| **Two Sigma** | `5` | `0` | `0` | `1` | `0` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=two-sigma) |
-| **Pure Storage** | `7` | `0` | `0` | `3` | `1` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pure-storage) |
-| **Box** | `8` | `0` | `0` | `1` | `0` | `2026-03-13` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=box) |
-| **Palantir** | `5` | `0` | `0` | `1` | `0` | `2026-03-14` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=palantir) |
-| **Salesforce** | `2` | `0` | `0` | `1` | `0` | `3 days ago` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=salesforce) |
-| **Pokemon Go** | `1` | `0` | `0` | `1` | `0` | `2026-03-17` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pokemon-go) |
-| **Valk Trading** | `1` | `0` | `0` | `1` | `0` | `2026-03-17` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=valk-trading) |
-| **PayPal** | `1` | `0` | `0` | `1` | `0` | `2026-03-05` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=paypal) |
-| **Goldman Sachs** | `1` | `0` | `0` | `1` | `0` | `2026-03-04` |
-| **Sierra Space** | `2` | `0` | `0` | `1` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=sierra-space) | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=goldman-sachs) |
+| Company | 14d Reports | Offers | Interviews | OAs | Last Active | Prep |
+|---------|-------------|--------|------------|-----|-------------|------|
+| **Sierra Space** | `2` | `0` | `0` | `1` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=sierra-space) |
+| **Pure Storage** | `7` | `0` | `0` | `3` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pure-storage) |
+| **Salesforce** | `2` | `0` | `0` | `1` | `2026-03-21` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=salesforce) |
+| **Two Sigma** | `5` | `0` | `0` | `1` | `2026-03-18` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=two-sigma) |
+| **Pokemon Go** | `1` | `0` | `0` | `1` | `2026-03-17` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=pokemon-go) |
+| **Valk Trading** | `1` | `0` | `0` | `1` | `2026-03-17` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=valk-trading) |
+| **Palantir** | `5` | `0` | `0` | `1` | `2026-03-14` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=palantir) |
+| **Box** | `8` | `0` | `0` | `1` | `2026-03-13` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=box) |
+| **PayPal** | `1` | `0` | `0` | `1` | `2026-03-05` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=paypal) |
+| **Goldman Sachs** | `1` | `0` | `0` | `1` | `2026-03-04` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=goldman-sachs) |
 
 ### 💀 Rejections Out
 
@@ -174,17 +146,17 @@ Most discussed companies since March 1:
 
 ### 💬 Active
 
-| Company | 14d Reports | Offers | Interviews | OAs | Rejections | Last Active | Prep |
-|---------|-------------|--------|------------|-----|------------|-------------|------|
-| **TikTok** | `9` | `0` | `1` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tiktok) |
-| **IMC** | `4` | `0` | `0` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=akuna) |
-| **Neuralink** | `2` | `0` | `0` | `0` | `0` | `2026-03-15` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=neuralink) |
-| **Meta** | `4` | `0` | `0` | `0` | `0` | `2026-03-22` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=docusign) |
-| **ARM** | `2` | `0` | `0` | `0` | `0` | `2026-03-09` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=arm) |
-| **Stripe** | `2` | `0` | `0` | `0` | `0` | `2026-03-07` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=stripe) |
-| **SoFi** | `4` | `0` | `0` | `0` | `0` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=sierra-space) |
-| **MathWorks** | `2` | `0` | `0` | `0` | `0` | `2026-03-05` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=mathworks) |
-| **Roblox** | `1` | `0` | `0` | `0` | `0` | `2026-03-13` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=roblox) |
+| Company | 14d Reports | Offers | Interviews | OAs | Last Active | Prep |
+|---------|-------------|--------|------------|-----|-------------|------|
+| **TikTok** | `9` | `0` | `1` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=tiktok) |
+| **IMC** | `4` | `0` | `0` | `0` | `2026-03-24` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=imc) |
+| **SoFi** | `4` | `0` | `0` | `0` | `2026-03-23` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=sofi) |
+| **Meta** | `4` | `0` | `0` | `0` | `2026-03-22` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=meta) |
+| **Neuralink** | `2` | `0` | `0` | `0` | `2026-03-15` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=neuralink) |
+| **Roblox** | `1` | `0` | `0` | `0` | `2026-03-13` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=roblox) |
+| **ARM** | `2` | `0` | `0` | `0` | `2026-03-09` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=arm) |
+| **Stripe** | `2` | `0` | `0` | `0` | `2026-03-07` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=stripe) |
+| **MathWorks** | `2` | `0` | `0` | `0` | `2026-03-05` | [![Prep](https://img.shields.io/badge/Prep-4F5BD5?style=flat-square&logoColor=white)](https://interviewsense.org/dashboard?company=mathworks) |
 
 ---
 
