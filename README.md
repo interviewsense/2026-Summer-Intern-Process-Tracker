@@ -2,7 +2,7 @@
 
 Track where candidates are reporting Summer 2026 offers, interviews, online assessments, and rejections across software, data science, quant, AI, hardware, and more.
 
-![Updated](https://img.shields.io/badge/Updated-Apr%2029%202026%2023%3A43%20UTC-4F5BD5?style=flat-square) ![Reports](https://img.shields.io/badge/Reports-5,867-4F5BD5?style=flat-square) ![Companies](https://img.shields.io/badge/Companies-134-4F5BD5?style=flat-square) ![Offers](https://img.shields.io/badge/Offers-378-22c55e?style=flat-square) ![Interviews](https://img.shields.io/badge/Interviews-1,118-4F5BD5?style=flat-square) ![OAs](https://img.shields.io/badge/OAs-223-4F5BD5?style=flat-square) ![Rejections](https://img.shields.io/badge/Rejections-167-ef4444?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-Apr%2029%202026%2023%3A44%20UTC-4F5BD5?style=flat-square) ![Reports](https://img.shields.io/badge/Reports-5,867-4F5BD5?style=flat-square) ![Companies](https://img.shields.io/badge/Companies-134-4F5BD5?style=flat-square) ![Offers](https://img.shields.io/badge/Offers-378-22c55e?style=flat-square) ![Interviews](https://img.shields.io/badge/Interviews-1,118-4F5BD5?style=flat-square) ![OAs](https://img.shields.io/badge/OAs-223-4F5BD5?style=flat-square) ![Rejections](https://img.shields.io/badge/Rejections-167-ef4444?style=flat-square)
 
 🙏 Contribute by submitting an [issue](https://github.com/interviewsense/2026-Summer-Intern-Process-Tracker/issues). See the contribution guidelines [here](CONTRIBUTING.md).
 
