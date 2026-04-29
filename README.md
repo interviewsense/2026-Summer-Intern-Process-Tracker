@@ -14,7 +14,7 @@ Track where candidates are reporting Summer 2026 offers, interviews, online asse
 
 <h3><a href="https://interviewsense.org">Get AI mock interviews built around every company in this list</a></h3>
 
-<a href="https://interviewsense.org"><img src="assets/cta-small.png" alt="Start Free on InterviewSense" width="640" /></a>
+<a href="https://interviewsense.org"><img src="assets/cta-small.png" alt="Start Free on InterviewSense" width="80" /></a>
 
 <p><sub><i>Stop grinding random LeetCode. InterviewSense builds mock interviews around the real offer, OA, and interview patterns candidates are reporting right now.</i></sub></p>
 
